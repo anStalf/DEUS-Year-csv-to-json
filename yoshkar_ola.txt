@@ -1,0 +1,1473 @@
+Month: 1
+Unix time 1388577600 (01 Jan 14)
+Day: 01 On time: 16:39 Off time: 8:57
+Schedule time ON: 16:39 | Calculated time ON: 15:33 [DIFF: -3928]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6847]
+Unix time 1388664000 (02 Jan 14)
+Day: 02 On time: 16:40 Off time: 8:57
+Schedule time ON: 16:40 | Calculated time ON: 15:34 [DIFF: -3929]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6850]
+Unix time 1388750400 (03 Jan 14)
+Day: 03 On time: 16:41 Off time: 8:56
+Schedule time ON: 16:41 | Calculated time ON: 15:35 [DIFF: -3928]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:02 [DIFF: -6796]
+Unix time 1388836800 (04 Jan 14)
+Day: 04 On time: 16:42 Off time: 8:56
+Schedule time ON: 16:42 | Calculated time ON: 15:36 [DIFF: -3925]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:02 [DIFF: -6804]
+Unix time 1388923200 (05 Jan 14)
+Day: 05 On time: 16:44 Off time: 8:56
+Schedule time ON: 16:44 | Calculated time ON: 15:37 [DIFF: -3980]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:02 [DIFF: -6816]
+Unix time 1389009600 (06 Jan 14)
+Day: 06 On time: 16:45 Off time: 8:55
+Schedule time ON: 16:45 | Calculated time ON: 15:38 [DIFF: -3973]
+Schedule time OFF: 8:55 | Calculated time OFF: 7:02 [DIFF: -6770]
+Unix time 1389096000 (07 Jan 14)
+Day: 07 On time: 16:46 Off time: 8:55
+Schedule time ON: 16:46 | Calculated time ON: 15:39 [DIFF: -3964]
+Schedule time OFF: 8:55 | Calculated time OFF: 7:01 [DIFF: -6787]
+Unix time 1389182400 (08 Jan 14)
+Day: 08 On time: 16:48 Off time: 8:54
+Schedule time ON: 16:48 | Calculated time ON: 15:41 [DIFF: -4014]
+Schedule time OFF: 8:54 | Calculated time OFF: 7:01 [DIFF: -6747]
+Unix time 1389268800 (09 Jan 14)
+Day: 09 On time: 16:50 Off time: 8:54
+Schedule time ON: 16:50 | Calculated time ON: 15:42 [DIFF: -4061]
+Schedule time OFF: 8:54 | Calculated time OFF: 7:01 [DIFF: -6770]
+Unix time 1389355200 (10 Jan 14)
+Day: 10 On time: 16:52 Off time: 8:53
+Schedule time ON: 16:52 | Calculated time ON: 15:43 [DIFF: -4107]
+Schedule time OFF: 8:53 | Calculated time OFF: 7:00 [DIFF: -6736]
+Unix time 1389441600 (11 Jan 14)
+Day: 11 On time: 16:54 Off time: 8:52
+Schedule time ON: 16:54 | Calculated time ON: 15:44 [DIFF: -4151]
+Schedule time OFF: 8:52 | Calculated time OFF: 7:00 [DIFF: -6704]
+Unix time 1389528000 (12 Jan 14)
+Day: 12 On time: 16:56 Off time: 8:51
+Schedule time ON: 16:56 | Calculated time ON: 15:46 [DIFF: -4194]
+Schedule time OFF: 8:51 | Calculated time OFF: 6:59 [DIFF: -6675]
+Unix time 1389614400 (13 Jan 14)
+Day: 13 On time: 16:58 Off time: 8:50
+Schedule time ON: 16:58 | Calculated time ON: 15:47 [DIFF: -4236]
+Schedule time OFF: 8:50 | Calculated time OFF: 6:59 [DIFF: -6649]
+Unix time 1389700800 (14 Jan 14)
+Day: 14 On time: 17:00 Off time: 8:49
+Schedule time ON: 17:00 | Calculated time ON: 15:48 [DIFF: -4276]
+Schedule time OFF: 8:49 | Calculated time OFF: 6:58 [DIFF: -6625]
+Unix time 1389787200 (15 Jan 14)
+Day: 15 On time: 17:02 Off time: 8:48
+Schedule time ON: 17:02 | Calculated time ON: 15:50 [DIFF: -4314]
+Schedule time OFF: 8:48 | Calculated time OFF: 6:57 [DIFF: -6604]
+Unix time 1389873600 (16 Jan 14)
+Day: 16 On time: 17:03 Off time: 8:47
+Schedule time ON: 17:03 | Calculated time ON: 15:51 [DIFF: -4292]
+Schedule time OFF: 8:47 | Calculated time OFF: 6:57 [DIFF: -6586]
+Unix time 1389960000 (17 Jan 14)
+Day: 17 On time: 17:04 Off time: 8:46
+Schedule time ON: 17:04 | Calculated time ON: 15:52 [DIFF: -4268]
+Schedule time OFF: 8:46 | Calculated time OFF: 6:56 [DIFF: -6570]
+Unix time 1390046400 (18 Jan 14)
+Day: 18 On time: 17:06 Off time: 8:44
+Schedule time ON: 17:06 | Calculated time ON: 15:54 [DIFF: -4303]
+Schedule time OFF: 8:44 | Calculated time OFF: 6:55 [DIFF: -6497]
+Unix time 1390132800 (19 Jan 14)
+Day: 19 On time: 17:08 Off time: 8:44
+Schedule time ON: 17:08 | Calculated time ON: 15:55 [DIFF: -4337]
+Schedule time OFF: 8:44 | Calculated time OFF: 6:54 [DIFF: -6546]
+Unix time 1390219200 (20 Jan 14)
+Day: 20 On time: 17:10 Off time: 8:42
+Schedule time ON: 17:10 | Calculated time ON: 15:57 [DIFF: -4371]
+Schedule time OFF: 8:42 | Calculated time OFF: 6:54 [DIFF: -6477]
+Unix time 1390305600 (21 Jan 14)
+Day: 21 On time: 17:12 Off time: 8:41
+Schedule time ON: 17:12 | Calculated time ON: 15:58 [DIFF: -4403]
+Schedule time OFF: 8:41 | Calculated time OFF: 6:53 [DIFF: -6471]
+Unix time 1390392000 (22 Jan 14)
+Day: 22 On time: 17:14 Off time: 8:40
+Schedule time ON: 17:14 | Calculated time ON: 16:00 [DIFF: -4434]
+Schedule time OFF: 8:40 | Calculated time OFF: 6:52 [DIFF: -6468]
+Unix time 1390478400 (23 Jan 14)
+Day: 23 On time: 17:16 Off time: 8:39
+Schedule time ON: 17:16 | Calculated time ON: 16:01 [DIFF: -4465]
+Schedule time OFF: 8:39 | Calculated time OFF: 6:51 [DIFF: -6466]
+Unix time 1390564800 (24 Jan 14)
+Day: 24 On time: 17:18 Off time: 8:37
+Schedule time ON: 17:18 | Calculated time ON: 16:03 [DIFF: -4495]
+Schedule time OFF: 8:37 | Calculated time OFF: 6:50 [DIFF: -6407]
+Unix time 1390651200 (25 Jan 14)
+Day: 25 On time: 17:20 Off time: 8:35
+Schedule time ON: 17:20 | Calculated time ON: 16:04 [DIFF: -4524]
+Schedule time OFF: 8:35 | Calculated time OFF: 6:49 [DIFF: -6351]
+Unix time 1390737600 (26 Jan 14)
+Day: 26 On time: 17:22 Off time: 8:34
+Schedule time ON: 17:22 | Calculated time ON: 16:06 [DIFF: -4553]
+Schedule time OFF: 8:34 | Calculated time OFF: 6:48 [DIFF: -6356]
+Unix time 1390824000 (27 Jan 14)
+Day: 27 On time: 17:24 Off time: 8:32
+Schedule time ON: 17:24 | Calculated time ON: 16:07 [DIFF: -4581]
+Schedule time OFF: 8:32 | Calculated time OFF: 6:46 [DIFF: -6303]
+Unix time 1390910400 (28 Jan 14)
+Day: 28 On time: 17:26 Off time: 8:30
+Schedule time ON: 17:26 | Calculated time ON: 16:09 [DIFF: -4609]
+Schedule time OFF: 8:30 | Calculated time OFF: 6:45 [DIFF: -6253]
+Unix time 1390996800 (29 Jan 14)
+Day: 29 On time: 17:28 Off time: 8:28
+Schedule time ON: 17:28 | Calculated time ON: 16:10 [DIFF: -4636]
+Schedule time OFF: 8:28 | Calculated time OFF: 6:44 [DIFF: -6205]
+Unix time 1391083200 (30 Jan 14)
+Day: 30 On time: 17:30 Off time: 8:26
+Schedule time ON: 17:30 | Calculated time ON: 16:12 [DIFF: -4663]
+Schedule time OFF: 8:26 | Calculated time OFF: 6:43 [DIFF: -6158]
+Unix time 1391169600 (31 Jan 14)
+Day: 31 On time: 17:33 Off time: 8:24
+Schedule time ON: 17:33 | Calculated time ON: 16:13 [DIFF: -4750]
+Schedule time OFF: 8:24 | Calculated time OFF: 6:42 [DIFF: -6114]
+Month: 2
+Unix time 1391256000 (01 Feb 14)
+Day: 01 On time: 17:35 Off time: 8:23
+Schedule time ON: 17:35 | Calculated time ON: 16:15 [DIFF: -4776]
+Schedule time OFF: 8:23 | Calculated time OFF: 6:40 [DIFF: -6132]
+Unix time 1391342400 (02 Feb 14)
+Day: 02 On time: 17:37 Off time: 8:22
+Schedule time ON: 17:37 | Calculated time ON: 16:16 [DIFF: -4802]
+Schedule time OFF: 8:22 | Calculated time OFF: 6:39 [DIFF: -6151]
+Unix time 1391428800 (03 Feb 14)
+Day: 03 On time: 17:39 Off time: 8:20
+Schedule time ON: 17:39 | Calculated time ON: 16:18 [DIFF: -4828]
+Schedule time OFF: 8:20 | Calculated time OFF: 6:38 [DIFF: -6112]
+Unix time 1391515200 (04 Feb 14)
+Day: 04 On time: 17:41 Off time: 8:18
+Schedule time ON: 17:41 | Calculated time ON: 16:20 [DIFF: -4854]
+Schedule time OFF: 8:18 | Calculated time OFF: 6:36 [DIFF: -6075]
+Unix time 1391601600 (05 Feb 14)
+Day: 05 On time: 17:43 Off time: 8:16
+Schedule time ON: 17:43 | Calculated time ON: 16:21 [DIFF: -4880]
+Schedule time OFF: 8:16 | Calculated time OFF: 6:35 [DIFF: -6040]
+Unix time 1391688000 (06 Feb 14)
+Day: 06 On time: 17:45 Off time: 8:14
+Schedule time ON: 17:45 | Calculated time ON: 16:23 [DIFF: -4905]
+Schedule time OFF: 8:14 | Calculated time OFF: 6:33 [DIFF: -6007]
+Unix time 1391774400 (07 Feb 14)
+Day: 07 On time: 17:47 Off time: 8:12
+Schedule time ON: 17:47 | Calculated time ON: 16:24 [DIFF: -4931]
+Schedule time OFF: 8:12 | Calculated time OFF: 6:32 [DIFF: -5975]
+Unix time 1391860800 (08 Feb 14)
+Day: 08 On time: 17:49 Off time: 8:10
+Schedule time ON: 17:49 | Calculated time ON: 16:26 [DIFF: -4956]
+Schedule time OFF: 8:10 | Calculated time OFF: 6:30 [DIFF: -5944]
+Unix time 1391947200 (09 Feb 14)
+Day: 09 On time: 17:52 Off time: 8:08
+Schedule time ON: 17:52 | Calculated time ON: 16:27 [DIFF: -5042]
+Schedule time OFF: 8:08 | Calculated time OFF: 6:29 [DIFF: -5916]
+Unix time 1392033600 (10 Feb 14)
+Day: 10 On time: 17:55 Off time: 8:05
+Schedule time ON: 17:55 | Calculated time ON: 16:29 [DIFF: -5127]
+Schedule time OFF: 8:05 | Calculated time OFF: 6:27 [DIFF: -5828]
+Unix time 1392120000 (11 Feb 14)
+Day: 11 On time: 17:57 Off time: 8:03
+Schedule time ON: 17:57 | Calculated time ON: 16:31 [DIFF: -5153]
+Schedule time OFF: 8:03 | Calculated time OFF: 6:26 [DIFF: -5802]
+Unix time 1392206400 (12 Feb 14)
+Day: 12 On time: 17:59 Off time: 8:01
+Schedule time ON: 17:59 | Calculated time ON: 16:32 [DIFF: -5179]
+Schedule time OFF: 8:01 | Calculated time OFF: 6:24 [DIFF: -5778]
+Unix time 1392292800 (13 Feb 14)
+Day: 13 On time: 18:01 Off time: 7:59
+Schedule time ON: 18:01 | Calculated time ON: 16:34 [DIFF: -5204]
+Schedule time OFF: 7:59 | Calculated time OFF: 6:23 [DIFF: -5755]
+Unix time 1392379200 (14 Feb 14)
+Day: 14 On time: 18:03 Off time: 7:57
+Schedule time ON: 18:03 | Calculated time ON: 16:35 [DIFF: -5230]
+Schedule time OFF: 7:57 | Calculated time OFF: 6:21 [DIFF: -5733]
+Unix time 1392465600 (15 Feb 14)
+Day: 15 On time: 18:05 Off time: 7:55
+Schedule time ON: 18:05 | Calculated time ON: 16:37 [DIFF: -5257]
+Schedule time OFF: 7:55 | Calculated time OFF: 6:19 [DIFF: -5713]
+Unix time 1392552000 (16 Feb 14)
+Day: 16 On time: 18:07 Off time: 7:53
+Schedule time ON: 18:07 | Calculated time ON: 16:38 [DIFF: -5283]
+Schedule time OFF: 7:53 | Calculated time OFF: 6:18 [DIFF: -5694]
+Unix time 1392638400 (17 Feb 14)
+Day: 17 On time: 18:09 Off time: 7:51
+Schedule time ON: 18:09 | Calculated time ON: 16:40 [DIFF: -5309]
+Schedule time OFF: 7:51 | Calculated time OFF: 6:16 [DIFF: -5676]
+Unix time 1392724800 (18 Feb 14)
+Day: 18 On time: 18:11 Off time: 7:49
+Schedule time ON: 18:11 | Calculated time ON: 16:42 [DIFF: -5336]
+Schedule time OFF: 7:49 | Calculated time OFF: 6:14 [DIFF: -5659]
+Unix time 1392811200 (19 Feb 14)
+Day: 19 On time: 18:14 Off time: 7:46
+Schedule time ON: 18:14 | Calculated time ON: 16:43 [DIFF: -5423]
+Schedule time OFF: 7:46 | Calculated time OFF: 6:12 [DIFF: -5584]
+Unix time 1392897600 (20 Feb 14)
+Day: 20 On time: 18:17 Off time: 7:43
+Schedule time ON: 18:17 | Calculated time ON: 16:45 [DIFF: -5510]
+Schedule time OFF: 7:43 | Calculated time OFF: 6:11 [DIFF: -5509]
+Unix time 1392984000 (21 Feb 14)
+Day: 21 On time: 18:19 Off time: 7:41
+Schedule time ON: 18:19 | Calculated time ON: 16:46 [DIFF: -5538]
+Schedule time OFF: 7:41 | Calculated time OFF: 6:09 [DIFF: -5496]
+Unix time 1393070400 (22 Feb 14)
+Day: 22 On time: 18:21 Off time: 7:39
+Schedule time ON: 18:21 | Calculated time ON: 16:48 [DIFF: -5566]
+Schedule time OFF: 7:39 | Calculated time OFF: 6:07 [DIFF: -5483]
+Unix time 1393156800 (23 Feb 14)
+Day: 23 On time: 18:23 Off time: 7:37
+Schedule time ON: 18:23 | Calculated time ON: 16:49 [DIFF: -5594]
+Schedule time OFF: 7:37 | Calculated time OFF: 6:05 [DIFF: -5472]
+Unix time 1393243200 (24 Feb 14)
+Day: 24 On time: 18:25 Off time: 7:35
+Schedule time ON: 18:25 | Calculated time ON: 16:51 [DIFF: -5622]
+Schedule time OFF: 7:35 | Calculated time OFF: 6:03 [DIFF: -5461]
+Unix time 1393329600 (25 Feb 14)
+Day: 25 On time: 18:28 Off time: 7:32
+Schedule time ON: 18:28 | Calculated time ON: 16:52 [DIFF: -5710]
+Schedule time OFF: 7:32 | Calculated time OFF: 6:02 [DIFF: -5392]
+Unix time 1393416000 (26 Feb 14)
+Day: 26 On time: 18:30 Off time: 7:29
+Schedule time ON: 18:30 | Calculated time ON: 16:54 [DIFF: -5739]
+Schedule time OFF: 7:29 | Calculated time OFF: 6:00 [DIFF: -5323]
+Unix time 1393502400 (27 Feb 14)
+Day: 27 On time: 18:32 Off time: 7:26
+Schedule time ON: 18:32 | Calculated time ON: 16:55 [DIFF: -5768]
+Schedule time OFF: 7:26 | Calculated time OFF: 5:58 [DIFF: -5255]
+Unix time 1393588800 (28 Feb 14)
+Day: 28 On time: 18:34 Off time: 7:23
+Schedule time ON: 18:34 | Calculated time ON: 16:57 [DIFF: -5798]
+Schedule time OFF: 7:23 | Calculated time OFF: 5:56 [DIFF: -5188]
+Month: 3
+Unix time 1393675200 (01 Mar 14)
+Day: 01 On time: 18:36 Off time: 7:21
+Schedule time ON: 18:36 | Calculated time ON: 16:58 [DIFF: -5827]
+Schedule time OFF: 7:21 | Calculated time OFF: 5:54 [DIFF: -5181]
+Unix time 1393761600 (02 Mar 14)
+Day: 02 On time: 18:38 Off time: 7:19
+Schedule time ON: 18:38 | Calculated time ON: 17:00 [DIFF: -5857]
+Schedule time OFF: 7:19 | Calculated time OFF: 5:52 [DIFF: -5175]
+Unix time 1393848000 (03 Mar 14)
+Day: 03 On time: 18:41 Off time: 7:16
+Schedule time ON: 18:41 | Calculated time ON: 17:01 [DIFF: -5948]
+Schedule time OFF: 7:16 | Calculated time OFF: 5:50 [DIFF: -5110]
+Unix time 1393934400 (04 Mar 14)
+Day: 04 On time: 18:44 Off time: 7:13
+Schedule time ON: 18:44 | Calculated time ON: 17:03 [DIFF: -6038]
+Schedule time OFF: 7:13 | Calculated time OFF: 5:48 [DIFF: -5046]
+Unix time 1394020800 (05 Mar 14)
+Day: 05 On time: 18:47 Off time: 7:10
+Schedule time ON: 18:47 | Calculated time ON: 17:04 [DIFF: -6129]
+Schedule time OFF: 7:10 | Calculated time OFF: 5:46 [DIFF: -4982]
+Unix time 1394107200 (06 Mar 14)
+Day: 06 On time: 18:49 Off time: 7:08
+Schedule time ON: 18:49 | Calculated time ON: 17:06 [DIFF: -6160]
+Schedule time OFF: 7:08 | Calculated time OFF: 5:45 [DIFF: -4979]
+Unix time 1394193600 (07 Mar 14)
+Day: 07 On time: 18:51 Off time: 7:06
+Schedule time ON: 18:51 | Calculated time ON: 17:07 [DIFF: -6191]
+Schedule time OFF: 7:06 | Calculated time OFF: 5:43 [DIFF: -4976]
+Unix time 1394280000 (08 Mar 14)
+Day: 08 On time: 18:53 Off time: 7:04
+Schedule time ON: 18:53 | Calculated time ON: 17:09 [DIFF: -6223]
+Schedule time OFF: 7:04 | Calculated time OFF: 5:41 [DIFF: -4974]
+Unix time 1394366400 (09 Mar 14)
+Day: 09 On time: 18:55 Off time: 7:01
+Schedule time ON: 18:55 | Calculated time ON: 17:10 [DIFF: -6255]
+Schedule time OFF: 7:01 | Calculated time OFF: 5:39 [DIFF: -4912]
+Unix time 1394452800 (10 Mar 14)
+Day: 10 On time: 18:58 Off time: 6:58
+Schedule time ON: 18:58 | Calculated time ON: 17:12 [DIFF: -6347]
+Schedule time OFF: 6:58 | Calculated time OFF: 5:37 [DIFF: -4851]
+Unix time 1394539200 (11 Mar 14)
+Day: 11 On time: 19:00 Off time: 6:56
+Schedule time ON: 19:00 | Calculated time ON: 17:13 [DIFF: -6379]
+Schedule time OFF: 6:56 | Calculated time OFF: 5:35 [DIFF: -4850]
+Unix time 1394625600 (12 Mar 14)
+Day: 12 On time: 19:02 Off time: 6:53
+Schedule time ON: 19:02 | Calculated time ON: 17:15 [DIFF: -6412]
+Schedule time OFF: 6:53 | Calculated time OFF: 5:33 [DIFF: -4790]
+Unix time 1394712000 (13 Mar 14)
+Day: 13 On time: 19:04 Off time: 6:50
+Schedule time ON: 19:04 | Calculated time ON: 17:16 [DIFF: -6444]
+Schedule time OFF: 6:50 | Calculated time OFF: 5:31 [DIFF: -4730]
+Unix time 1394798400 (14 Mar 14)
+Day: 14 On time: 19:06 Off time: 6:47
+Schedule time ON: 19:06 | Calculated time ON: 17:18 [DIFF: -6477]
+Schedule time OFF: 6:47 | Calculated time OFF: 5:29 [DIFF: -4670]
+Unix time 1394884800 (15 Mar 14)
+Day: 15 On time: 19:09 Off time: 6:44
+Schedule time ON: 19:09 | Calculated time ON: 17:19 [DIFF: -6571]
+Schedule time OFF: 6:44 | Calculated time OFF: 5:27 [DIFF: -4610]
+Unix time 1394971200 (16 Mar 14)
+Day: 16 On time: 19:11 Off time: 6:42
+Schedule time ON: 19:11 | Calculated time ON: 17:20 [DIFF: -6604]
+Schedule time OFF: 6:42 | Calculated time OFF: 5:25 [DIFF: -4611]
+Unix time 1395057600 (17 Mar 14)
+Day: 17 On time: 19:13 Off time: 6:39
+Schedule time ON: 19:13 | Calculated time ON: 17:22 [DIFF: -6638]
+Schedule time OFF: 6:39 | Calculated time OFF: 5:23 [DIFF: -4552]
+Unix time 1395144000 (18 Mar 14)
+Day: 18 On time: 19:15 Off time: 6:36
+Schedule time ON: 19:15 | Calculated time ON: 17:23 [DIFF: -6671]
+Schedule time OFF: 6:36 | Calculated time OFF: 5:21 [DIFF: -4493]
+Unix time 1395230400 (19 Mar 14)
+Day: 19 On time: 19:17 Off time: 6:33
+Schedule time ON: 19:17 | Calculated time ON: 17:25 [DIFF: -6705]
+Schedule time OFF: 6:33 | Calculated time OFF: 5:19 [DIFF: -4434]
+Unix time 1395316800 (20 Mar 14)
+Day: 20 On time: 19:19 Off time: 6:30
+Schedule time ON: 19:19 | Calculated time ON: 17:26 [DIFF: -6739]
+Schedule time OFF: 6:30 | Calculated time OFF: 5:17 [DIFF: -4375]
+Unix time 1395403200 (21 Mar 14)
+Day: 21 On time: 19:21 Off time: 6:28
+Schedule time ON: 19:21 | Calculated time ON: 17:28 [DIFF: -6774]
+Schedule time OFF: 6:28 | Calculated time OFF: 5:15 [DIFF: -4377]
+Unix time 1395489600 (22 Mar 14)
+Day: 22 On time: 19:23 Off time: 6:26
+Schedule time ON: 19:23 | Calculated time ON: 17:29 [DIFF: -6808]
+Schedule time OFF: 6:26 | Calculated time OFF: 5:13 [DIFF: -4378]
+Unix time 1395576000 (23 Mar 14)
+Day: 23 On time: 19:25 Off time: 6:23
+Schedule time ON: 19:25 | Calculated time ON: 17:30 [DIFF: -6843]
+Schedule time OFF: 6:23 | Calculated time OFF: 5:11 [DIFF: -4320]
+Unix time 1395662400 (24 Mar 14)
+Day: 24 On time: 19:27 Off time: 6:20
+Schedule time ON: 19:27 | Calculated time ON: 17:32 [DIFF: -6877]
+Schedule time OFF: 6:20 | Calculated time OFF: 5:08 [DIFF: -4261]
+Unix time 1395748800 (25 Mar 14)
+Day: 25 On time: 19:29 Off time: 6:17
+Schedule time ON: 19:29 | Calculated time ON: 17:33 [DIFF: -6912]
+Schedule time OFF: 6:17 | Calculated time OFF: 5:06 [DIFF: -4203]
+Unix time 1395835200 (26 Mar 14)
+Day: 26 On time: 19:31 Off time: 6:14
+Schedule time ON: 19:31 | Calculated time ON: 17:35 [DIFF: -6947]
+Schedule time OFF: 6:14 | Calculated time OFF: 5:04 [DIFF: -4144]
+Unix time 1395921600 (27 Mar 14)
+Day: 27 On time: 19:33 Off time: 6:11
+Schedule time ON: 19:33 | Calculated time ON: 17:36 [DIFF: -6982]
+Schedule time OFF: 6:11 | Calculated time OFF: 5:02 [DIFF: -4085]
+Unix time 1396008000 (28 Mar 14)
+Day: 28 On time: 19:35 Off time: 6:08
+Schedule time ON: 19:35 | Calculated time ON: 17:38 [DIFF: -7017]
+Schedule time OFF: 6:08 | Calculated time OFF: 5:00 [DIFF: -4027]
+Unix time 1396094400 (29 Mar 14)
+Day: 29 On time: 19:37 Off time: 6:05
+Schedule time ON: 19:37 | Calculated time ON: 17:39 [DIFF: -7052]
+Schedule time OFF: 6:05 | Calculated time OFF: 4:58 [DIFF: -3968]
+Unix time 1396180800 (30 Mar 14)
+Day: 30 On time: 19:40 Off time: 6:02
+Schedule time ON: 19:40 | Calculated time ON: 17:40 [DIFF: -7147]
+Schedule time OFF: 6:02 | Calculated time OFF: 4:56 [DIFF: -3909]
+Unix time 1396267200 (31 Mar 14)
+Day: 31 On time: 19:42 Off time: 5:59
+Schedule time ON: 19:42 | Calculated time ON: 17:42 [DIFF: -7182]
+Schedule time OFF: 5:59 | Calculated time OFF: 4:54 [DIFF: -3849]
+Month: 4
+Unix time 1396353600 (01 Apr 14)
+Day: 01 On time: 19:44 Off time: 5:56
+Schedule time ON: 19:44 | Calculated time ON: 17:43 [DIFF: -7218]
+Schedule time OFF: 5:56 | Calculated time OFF: 4:52 [DIFF: -3789]
+Unix time 1396440000 (02 Apr 14)
+Day: 02 On time: 19:46 Off time: 5:53
+Schedule time ON: 19:46 | Calculated time ON: 17:45 [DIFF: -7253]
+Schedule time OFF: 5:53 | Calculated time OFF: 4:50 [DIFF: -3730]
+Unix time 1396526400 (03 Apr 14)
+Day: 03 On time: 19:48 Off time: 5:50
+Schedule time ON: 19:48 | Calculated time ON: 17:46 [DIFF: -7288]
+Schedule time OFF: 5:50 | Calculated time OFF: 4:48 [DIFF: -3669]
+Unix time 1396612800 (04 Apr 14)
+Day: 04 On time: 19:50 Off time: 5:47
+Schedule time ON: 19:50 | Calculated time ON: 17:47 [DIFF: -7324]
+Schedule time OFF: 5:47 | Calculated time OFF: 4:46 [DIFF: -3609]
+Unix time 1396699200 (05 Apr 14)
+Day: 05 On time: 19:52 Off time: 5:45
+Schedule time ON: 19:52 | Calculated time ON: 17:49 [DIFF: -7359]
+Schedule time OFF: 5:45 | Calculated time OFF: 4:44 [DIFF: -3608]
+Unix time 1396785600 (06 Apr 14)
+Day: 06 On time: 19:55 Off time: 5:42
+Schedule time ON: 19:55 | Calculated time ON: 17:50 [DIFF: -7455]
+Schedule time OFF: 5:42 | Calculated time OFF: 4:42 [DIFF: -3546]
+Unix time 1396872000 (07 Apr 14)
+Day: 07 On time: 19:57 Off time: 5:39
+Schedule time ON: 19:57 | Calculated time ON: 17:52 [DIFF: -7490]
+Schedule time OFF: 5:39 | Calculated time OFF: 4:40 [DIFF: -3485]
+Unix time 1396958400 (08 Apr 14)
+Day: 08 On time: 19:59 Off time: 5:36
+Schedule time ON: 19:59 | Calculated time ON: 17:53 [DIFF: -7526]
+Schedule time OFF: 5:36 | Calculated time OFF: 4:38 [DIFF: -3422]
+Unix time 1397044800 (09 Apr 14)
+Day: 09 On time: 20:01 Off time: 5:33
+Schedule time ON: 20:01 | Calculated time ON: 17:54 [DIFF: -7561]
+Schedule time OFF: 5:33 | Calculated time OFF: 4:37 [DIFF: -3359]
+Unix time 1397131200 (10 Apr 14)
+Day: 10 On time: 20:03 Off time: 5:31
+Schedule time ON: 20:03 | Calculated time ON: 17:56 [DIFF: -7597]
+Schedule time OFF: 5:31 | Calculated time OFF: 4:35 [DIFF: -3356]
+Unix time 1397217600 (11 Apr 14)
+Day: 11 On time: 20:05 Off time: 5:28
+Schedule time ON: 20:05 | Calculated time ON: 17:57 [DIFF: -7632]
+Schedule time OFF: 5:28 | Calculated time OFF: 4:33 [DIFF: -3292]
+Unix time 1397304000 (12 Apr 14)
+Day: 12 On time: 20:07 Off time: 5:25
+Schedule time ON: 20:07 | Calculated time ON: 17:59 [DIFF: -7668]
+Schedule time OFF: 5:25 | Calculated time OFF: 4:31 [DIFF: -3228]
+Unix time 1397390400 (13 Apr 14)
+Day: 13 On time: 20:09 Off time: 5:22
+Schedule time ON: 20:09 | Calculated time ON: 18:00 [DIFF: -7704]
+Schedule time OFF: 5:22 | Calculated time OFF: 4:29 [DIFF: -3163]
+Unix time 1397476800 (14 Apr 14)
+Day: 14 On time: 20:11 Off time: 5:19
+Schedule time ON: 20:11 | Calculated time ON: 18:02 [DIFF: -7739]
+Schedule time OFF: 5:19 | Calculated time OFF: 4:27 [DIFF: -3097]
+Unix time 1397563200 (15 Apr 14)
+Day: 15 On time: 20:13 Off time: 5:16
+Schedule time ON: 20:13 | Calculated time ON: 18:03 [DIFF: -7775]
+Schedule time OFF: 5:16 | Calculated time OFF: 4:25 [DIFF: -3030]
+Unix time 1397649600 (16 Apr 14)
+Day: 16 On time: 20:16 Off time: 5:13
+Schedule time ON: 20:16 | Calculated time ON: 18:04 [DIFF: -7870]
+Schedule time OFF: 5:13 | Calculated time OFF: 4:23 [DIFF: -2963]
+Unix time 1397736000 (17 Apr 14)
+Day: 17 On time: 20:19 Off time: 5:10
+Schedule time ON: 20:19 | Calculated time ON: 18:06 [DIFF: -7966]
+Schedule time OFF: 5:10 | Calculated time OFF: 4:21 [DIFF: -2895]
+Unix time 1397822400 (18 Apr 14)
+Day: 18 On time: 20:21 Off time: 5:07
+Schedule time ON: 20:21 | Calculated time ON: 18:07 [DIFF: -8002]
+Schedule time OFF: 5:07 | Calculated time OFF: 4:19 [DIFF: -2826]
+Unix time 1397908800 (19 Apr 14)
+Day: 19 On time: 20:23 Off time: 5:04
+Schedule time ON: 20:23 | Calculated time ON: 18:09 [DIFF: -8038]
+Schedule time OFF: 5:04 | Calculated time OFF: 4:18 [DIFF: -2756]
+Unix time 1397995200 (20 Apr 14)
+Day: 20 On time: 20:25 Off time: 5:02
+Schedule time ON: 20:25 | Calculated time ON: 18:10 [DIFF: -8073]
+Schedule time OFF: 5:02 | Calculated time OFF: 4:16 [DIFF: -2746]
+Unix time 1398081600 (21 Apr 14)
+Day: 21 On time: 20:28 Off time: 4:59
+Schedule time ON: 20:28 | Calculated time ON: 18:11 [DIFF: -8169]
+Schedule time OFF: 4:59 | Calculated time OFF: 4:14 [DIFF: -2674]
+Unix time 1398168000 (22 Apr 14)
+Day: 22 On time: 20:31 Off time: 4:56
+Schedule time ON: 20:31 | Calculated time ON: 18:13 [DIFF: -8265]
+Schedule time OFF: 4:56 | Calculated time OFF: 4:12 [DIFF: -2601]
+Unix time 1398254400 (23 Apr 14)
+Day: 23 On time: 20:34 Off time: 4:53
+Schedule time ON: 20:34 | Calculated time ON: 18:14 [DIFF: -8361]
+Schedule time OFF: 4:53 | Calculated time OFF: 4:10 [DIFF: -2528]
+Unix time 1398340800 (24 Apr 14)
+Day: 24 On time: 20:36 Off time: 4:51
+Schedule time ON: 20:36 | Calculated time ON: 18:16 [DIFF: -8397]
+Schedule time OFF: 4:51 | Calculated time OFF: 4:09 [DIFF: -2513]
+Unix time 1398427200 (25 Apr 14)
+Day: 25 On time: 20:38 Off time: 4:49
+Schedule time ON: 20:38 | Calculated time ON: 18:17 [DIFF: -8433]
+Schedule time OFF: 4:49 | Calculated time OFF: 4:07 [DIFF: -2498]
+Unix time 1398513600 (26 Apr 14)
+Day: 26 On time: 20:41 Off time: 4:46
+Schedule time ON: 20:41 | Calculated time ON: 18:18 [DIFF: -8530]
+Schedule time OFF: 4:46 | Calculated time OFF: 4:05 [DIFF: -2421]
+Unix time 1398600000 (27 Apr 14)
+Day: 27 On time: 20:43 Off time: 4:43
+Schedule time ON: 20:43 | Calculated time ON: 18:20 [DIFF: -8566]
+Schedule time OFF: 4:43 | Calculated time OFF: 4:03 [DIFF: -2343]
+Unix time 1398686400 (28 Apr 14)
+Day: 28 On time: 20:45 Off time: 4:41
+Schedule time ON: 20:45 | Calculated time ON: 18:21 [DIFF: -8603]
+Schedule time OFF: 4:41 | Calculated time OFF: 4:02 [DIFF: -2324]
+Unix time 1398772800 (29 Apr 14)
+Day: 29 On time: 20:47 Off time: 4:39
+Schedule time ON: 20:47 | Calculated time ON: 18:23 [DIFF: -8640]
+Schedule time OFF: 4:39 | Calculated time OFF: 4:00 [DIFF: -2304]
+Unix time 1398859200 (30 Apr 14)
+Day: 30 On time: 20:49 Off time: 4:37
+Schedule time ON: 20:49 | Calculated time ON: 18:24 [DIFF: -8677]
+Schedule time OFF: 4:37 | Calculated time OFF: 3:58 [DIFF: -2283]
+Month: 5
+Unix time 1398945600 (01 May 14)
+Day: 01 On time: 20:50 Off time: 4:34
+Schedule time ON: 20:50 | Calculated time ON: 18:25 [DIFF: -8654]
+Schedule time OFF: 4:34 | Calculated time OFF: 3:57 [DIFF: -2200]
+Unix time 1399032000 (02 May 14)
+Day: 02 On time: 20:54 Off time: 4:31
+Schedule time ON: 20:54 | Calculated time ON: 18:27 [DIFF: -8811]
+Schedule time OFF: 4:31 | Calculated time OFF: 3:55 [DIFF: -2116]
+Unix time 1399118400 (03 May 14)
+Day: 03 On time: 20:56 Off time: 4:28
+Schedule time ON: 20:56 | Calculated time ON: 18:28 [DIFF: -8849]
+Schedule time OFF: 4:28 | Calculated time OFF: 3:54 [DIFF: -2030]
+Unix time 1399204800 (04 May 14)
+Day: 04 On time: 20:58 Off time: 4:26
+Schedule time ON: 20:58 | Calculated time ON: 18:29 [DIFF: -8887]
+Schedule time OFF: 4:26 | Calculated time OFF: 3:52 [DIFF: -2003]
+Unix time 1399291200 (05 May 14)
+Day: 05 On time: 21:00 Off time: 4:24
+Schedule time ON: 21:00 | Calculated time ON: 18:31 [DIFF: -8926]
+Schedule time OFF: 4:24 | Calculated time OFF: 3:51 [DIFF: -1975]
+Unix time 1399377600 (06 May 14)
+Day: 06 On time: 21:03 Off time: 4:21
+Schedule time ON: 21:03 | Calculated time ON: 18:32 [DIFF: -9024]
+Schedule time OFF: 4:21 | Calculated time OFF: 3:49 [DIFF: -1885]
+Unix time 1399464000 (07 May 14)
+Day: 07 On time: 21:06 Off time: 4:18
+Schedule time ON: 21:06 | Calculated time ON: 18:33 [DIFF: -9124]
+Schedule time OFF: 4:18 | Calculated time OFF: 3:48 [DIFF: -1794]
+Unix time 1399550400 (08 May 14)
+Day: 08 On time: 21:09 Off time: 4:15
+Schedule time ON: 21:09 | Calculated time ON: 18:35 [DIFF: -9223]
+Schedule time OFF: 4:15 | Calculated time OFF: 3:46 [DIFF: -1701]
+Unix time 1399636800 (09 May 14)
+Day: 09 On time: 21:11 Off time: 4:13
+Schedule time ON: 21:11 | Calculated time ON: 18:36 [DIFF: -9263]
+Schedule time OFF: 4:13 | Calculated time OFF: 3:45 [DIFF: -1666]
+Unix time 1399723200 (10 May 14)
+Day: 10 On time: 21:13 Off time: 4:11
+Schedule time ON: 21:13 | Calculated time ON: 18:37 [DIFF: -9304]
+Schedule time OFF: 4:11 | Calculated time OFF: 3:43 [DIFF: -1630]
+Unix time 1399809600 (11 May 14)
+Day: 11 On time: 21:16 Off time: 4:08
+Schedule time ON: 21:16 | Calculated time ON: 18:39 [DIFF: -9405]
+Schedule time OFF: 4:08 | Calculated time OFF: 3:42 [DIFF: -1532]
+Unix time 1399896000 (12 May 14)
+Day: 12 On time: 21:18 Off time: 4:05
+Schedule time ON: 21:18 | Calculated time ON: 18:40 [DIFF: -9447]
+Schedule time OFF: 4:05 | Calculated time OFF: 3:41 [DIFF: -1433]
+Unix time 1399982400 (13 May 14)
+Day: 13 On time: 21:20 Off time: 4:02
+Schedule time ON: 21:20 | Calculated time ON: 18:41 [DIFF: -9489]
+Schedule time OFF: 4:02 | Calculated time OFF: 3:39 [DIFF: -1331]
+Unix time 1400068800 (14 May 14)
+Day: 14 On time: 21:22 Off time: 4:00
+Schedule time ON: 21:22 | Calculated time ON: 18:43 [DIFF: -9532]
+Schedule time OFF: 4:00 | Calculated time OFF: 3:38 [DIFF: -1288]
+Unix time 1400155200 (15 May 14)
+Day: 15 On time: 21:24 Off time: 3:58
+Schedule time ON: 21:24 | Calculated time ON: 18:44 [DIFF: -9576]
+Schedule time OFF: 3:58 | Calculated time OFF: 3:37 [DIFF: -1243]
+Unix time 1400241600 (16 May 14)
+Day: 16 On time: 21:26 Off time: 3:55
+Schedule time ON: 21:26 | Calculated time ON: 18:45 [DIFF: -9621]
+Schedule time OFF: 3:55 | Calculated time OFF: 3:36 [DIFF: -1136]
+Unix time 1400328000 (17 May 14)
+Day: 17 On time: 21:28 Off time: 3:53
+Schedule time ON: 21:28 | Calculated time ON: 18:46 [DIFF: -9666]
+Schedule time OFF: 3:53 | Calculated time OFF: 3:34 [DIFF: -1087]
+Unix time 1400414400 (18 May 14)
+Day: 18 On time: 21:30 Off time: 3:51
+Schedule time ON: 21:30 | Calculated time ON: 18:48 [DIFF: -9712]
+Schedule time OFF: 3:51 | Calculated time OFF: 3:33 [DIFF: -1036]
+Unix time 1400500800 (19 May 14)
+Day: 19 On time: 21:32 Off time: 3:49
+Schedule time ON: 21:32 | Calculated time ON: 18:49 [DIFF: -9760]
+Schedule time OFF: 3:49 | Calculated time OFF: 3:32 [DIFF: -983]
+Unix time 1400587200 (20 May 14)
+Day: 20 On time: 21:33 Off time: 3:47
+Schedule time ON: 21:33 | Calculated time ON: 18:50 [DIFF: -9748]
+Schedule time OFF: 3:47 | Calculated time OFF: 3:31 [DIFF: -928]
+Unix time 1400673600 (21 May 14)
+Day: 21 On time: 21:36 Off time: 3:44
+Schedule time ON: 21:36 | Calculated time ON: 18:51 [DIFF: -9857]
+Schedule time OFF: 3:44 | Calculated time OFF: 3:30 [DIFF: -811]
+Unix time 1400760000 (22 May 14)
+Day: 22 On time: 21:39 Off time: 3:42
+Schedule time ON: 21:39 | Calculated time ON: 18:52 [DIFF: -9967]
+Schedule time OFF: 3:42 | Calculated time OFF: 3:29 [DIFF: -752]
+Unix time 1400846400 (23 May 14)
+Day: 23 On time: 21:41 Off time: 3:40
+Schedule time ON: 21:41 | Calculated time ON: 18:54 [DIFF: -10018]
+Schedule time OFF: 3:40 | Calculated time OFF: 3:28 [DIFF: -691]
+Unix time 1400932800 (24 May 14)
+Day: 24 On time: 21:43 Off time: 3:38
+Schedule time ON: 21:43 | Calculated time ON: 18:55 [DIFF: -10071]
+Schedule time OFF: 3:38 | Calculated time OFF: 3:27 [DIFF: -627]
+Unix time 1401019200 (25 May 14)
+Day: 25 On time: 21:45 Off time: 3:36
+Schedule time ON: 21:45 | Calculated time ON: 18:56 [DIFF: -10124]
+Schedule time OFF: 3:36 | Calculated time OFF: 3:26 [DIFF: -561]
+Unix time 1401105600 (26 May 14)
+Day: 26 On time: 21:47 Off time: 3:34
+Schedule time ON: 21:47 | Calculated time ON: 18:57 [DIFF: -10179]
+Schedule time OFF: 3:34 | Calculated time OFF: 3:25 [DIFF: -493]
+Unix time 1401192000 (27 May 14)
+Day: 27 On time: 21:49 Off time: 3:32
+Schedule time ON: 21:49 | Calculated time ON: 18:58 [DIFF: -10236]
+Schedule time OFF: 3:32 | Calculated time OFF: 3:24 [DIFF: -423]
+Unix time 1401278400 (28 May 14)
+Day: 28 On time: 21:51 Off time: 3:30
+Schedule time ON: 21:51 | Calculated time ON: 18:59 [DIFF: -10294]
+Schedule time OFF: 3:30 | Calculated time OFF: 3:24 [DIFF: -350]
+Unix time 1401364800 (29 May 14)
+Day: 29 On time: 21:53 Off time: 3:28
+Schedule time ON: 21:53 | Calculated time ON: 19:00 [DIFF: -10353]
+Schedule time OFF: 3:28 | Calculated time OFF: 3:23 [DIFF: -275]
+Unix time 1401451200 (30 May 14)
+Day: 30 On time: 21:55 Off time: 3:26
+Schedule time ON: 21:55 | Calculated time ON: 19:01 [DIFF: -10413]
+Schedule time OFF: 3:26 | Calculated time OFF: 3:22 [DIFF: -198]
+Unix time 1401537600 (31 May 14)
+Day: 31 On time: 21:56 Off time: 3:24
+Schedule time ON: 21:56 | Calculated time ON: 19:02 [DIFF: -10416]
+Schedule time OFF: 3:24 | Calculated time OFF: 3:22 [DIFF: -118]
+Month: 6
+Unix time 1401624000 (01 Jun 14)
+Day: 01 On time: 21:58 Off time: 3:22
+Schedule time ON: 21:58 | Calculated time ON: 19:03 [DIFF: -10480]
+Schedule time OFF: 3:22 | Calculated time OFF: 3:21 [DIFF: -36]
+Unix time 1401710400 (02 Jun 14)
+Day: 02 On time: 22:00 Off time: 3:20
+Schedule time ON: 22:00 | Calculated time ON: 19:04 [DIFF: -10545]
+Schedule time OFF: 3:20 | Calculated time OFF: 3:20 [DIFF: 49]
+Unix time 1401796800 (03 Jun 14)
+Day: 03 On time: 22:02 Off time: 3:18
+Schedule time ON: 22:02 | Calculated time ON: 19:05 [DIFF: -10612]
+Schedule time OFF: 3:18 | Calculated time OFF: 3:20 [DIFF: 136]
+Unix time 1401883200 (04 Jun 14)
+Day: 04 On time: 22:04 Off time: 3:17
+Schedule time ON: 22:04 | Calculated time ON: 19:05 [DIFF: -10682]
+Schedule time OFF: 3:17 | Calculated time OFF: 3:19 [DIFF: 165]
+Unix time 1401969600 (05 Jun 14)
+Day: 05 On time: 22:05 Off time: 3:16
+Schedule time ON: 22:05 | Calculated time ON: 19:06 [DIFF: -10693]
+Schedule time OFF: 3:16 | Calculated time OFF: 3:19 [DIFF: 197]
+Unix time 1402056000 (06 Jun 14)
+Day: 06 On time: 22:07 Off time: 3:15
+Schedule time ON: 22:07 | Calculated time ON: 19:07 [DIFF: -10765]
+Schedule time OFF: 3:15 | Calculated time OFF: 3:18 [DIFF: 232]
+Unix time 1402142400 (07 Jun 14)
+Day: 07 On time: 22:09 Off time: 3:13
+Schedule time ON: 22:09 | Calculated time ON: 19:08 [DIFF: -10840]
+Schedule time OFF: 3:13 | Calculated time OFF: 3:18 [DIFF: 329]
+Unix time 1402228800 (08 Jun 14)
+Day: 08 On time: 22:11 Off time: 3:10
+Schedule time ON: 22:11 | Calculated time ON: 19:09 [DIFF: -10917]
+Schedule time OFF: 3:10 | Calculated time OFF: 3:18 [DIFF: 489]
+Unix time 1402315200 (09 Jun 14)
+Day: 09 On time: 22:12 Off time: 3:07
+Schedule time ON: 22:12 | Calculated time ON: 19:09 [DIFF: -10936]
+Schedule time OFF: 3:07 | Calculated time OFF: 3:17 [DIFF: 651]
+Unix time 1402401600 (10 Jun 14)
+Day: 10 On time: 22:14 Off time: 3:04
+Schedule time ON: 22:14 | Calculated time ON: 19:10 [DIFF: -11017]
+Schedule time OFF: 3:04 | Calculated time OFF: 3:17 [DIFF: 816]
+Unix time 1402488000 (11 Jun 14)
+Day: 11 On time: 22:17 Off time: 3:01
+Schedule time ON: 22:17 | Calculated time ON: 19:11 [DIFF: -11160]
+Schedule time OFF: 3:01 | Calculated time OFF: 3:17 [DIFF: 984]
+Unix time 1402574400 (12 Jun 14)
+Day: 12 On time: 22:20 Off time: 2:58
+Schedule time ON: 22:20 | Calculated time ON: 19:11 [DIFF: -11305]
+Schedule time OFF: 2:58 | Calculated time OFF: 3:17 [DIFF: 1154]
+Unix time 1402660800 (13 Jun 14)
+Day: 13 On time: 22:23 Off time: 2:55
+Schedule time ON: 22:23 | Calculated time ON: 19:12 [DIFF: -11453]
+Schedule time OFF: 2:55 | Calculated time OFF: 3:17 [DIFF: 1326]
+Unix time 1402747200 (14 Jun 14)
+Day: 14 On time: 22:26 Off time: 2:52
+Schedule time ON: 22:26 | Calculated time ON: 19:12 [DIFF: -11602]
+Schedule time OFF: 2:52 | Calculated time OFF: 3:17 [DIFF: 1501]
+Unix time 1402833600 (15 Jun 14)
+Day: 15 On time: 22:29 Off time: 2:49
+Schedule time ON: 22:29 | Calculated time ON: 19:13 [DIFF: -11754]
+Schedule time OFF: 2:49 | Calculated time OFF: 3:16 [DIFF: 1679]
+Unix time 1402920000 (16 Jun 14)
+Day: 16 On time: 22:32 Off time: 2:46
+Schedule time ON: 22:32 | Calculated time ON: 19:13 [DIFF: -11909]
+Schedule time OFF: 2:46 | Calculated time OFF: 3:16 [DIFF: 1859]
+Unix time 1403006400 (17 Jun 14)
+Day: 17 On time: 22:35 Off time: 2:43
+Schedule time ON: 22:35 | Calculated time ON: 19:13 [DIFF: -12066]
+Schedule time OFF: 2:43 | Calculated time OFF: 3:17 [DIFF: 2042]
+Unix time 1403092800 (18 Jun 14)
+Day: 18 On time: 22:38 Off time: 2:40
+Schedule time ON: 22:38 | Calculated time ON: 19:14 [DIFF: -12225]
+Schedule time OFF: 2:40 | Calculated time OFF: 3:17 [DIFF: 2228]
+Unix time 1403179200 (19 Jun 14)
+Day: 19 On time: 22:41 Off time: 2:43
+Schedule time ON: 22:41 | Calculated time ON: 19:14 [DIFF: -12387]
+Schedule time OFF: 2:43 | Calculated time OFF: 3:17 [DIFF: 2056]
+Unix time 1403265600 (20 Jun 14)
+Day: 20 On time: 22:44 Off time: 2:46
+Schedule time ON: 22:44 | Calculated time ON: 19:14 [DIFF: -12551]
+Schedule time OFF: 2:46 | Calculated time OFF: 3:17 [DIFF: 1886]
+Unix time 1403352000 (21 Jun 14)
+Day: 21 On time: 22:47 Off time: 2:49
+Schedule time ON: 22:47 | Calculated time ON: 19:15 [DIFF: -12718]
+Schedule time OFF: 2:49 | Calculated time OFF: 3:17 [DIFF: 1719]
+Unix time 1403438400 (22 Jun 14)
+Day: 22 On time: 22:50 Off time: 2:52
+Schedule time ON: 22:50 | Calculated time ON: 19:15 [DIFF: -12887]
+Schedule time OFF: 2:52 | Calculated time OFF: 3:17 [DIFF: 1554]
+Unix time 1403524800 (23 Jun 14)
+Day: 23 On time: 22:50 Off time: 2:55
+Schedule time ON: 22:50 | Calculated time ON: 19:15 [DIFF: -12879]
+Schedule time OFF: 2:55 | Calculated time OFF: 3:18 [DIFF: 1392]
+Unix time 1403611200 (24 Jun 14)
+Day: 24 On time: 22:47 Off time: 2:58
+Schedule time ON: 22:47 | Calculated time ON: 19:15 [DIFF: -12693]
+Schedule time OFF: 2:58 | Calculated time OFF: 3:18 [DIFF: 1232]
+Unix time 1403697600 (25 Jun 14)
+Day: 25 On time: 22:44 Off time: 3:01
+Schedule time ON: 22:44 | Calculated time ON: 19:15 [DIFF: -12510]
+Schedule time OFF: 3:01 | Calculated time OFF: 3:18 [DIFF: 1074]
+Unix time 1403784000 (26 Jun 14)
+Day: 26 On time: 22:41 Off time: 3:04
+Schedule time ON: 22:41 | Calculated time ON: 19:15 [DIFF: -12329]
+Schedule time OFF: 3:04 | Calculated time OFF: 3:19 [DIFF: 919]
+Unix time 1403870400 (27 Jun 14)
+Day: 27 On time: 22:38 Off time: 3:07
+Schedule time ON: 22:38 | Calculated time ON: 19:15 [DIFF: -12151]
+Schedule time OFF: 3:07 | Calculated time OFF: 3:19 [DIFF: 766]
+Unix time 1403956800 (28 Jun 14)
+Day: 28 On time: 22:35 Off time: 3:10
+Schedule time ON: 22:35 | Calculated time ON: 19:15 [DIFF: -11976]
+Schedule time OFF: 3:10 | Calculated time OFF: 3:20 [DIFF: 615]
+Unix time 1404043200 (29 Jun 14)
+Day: 29 On time: 22:32 Off time: 3:12
+Schedule time ON: 22:32 | Calculated time ON: 19:15 [DIFF: -11803]
+Schedule time OFF: 3:12 | Calculated time OFF: 3:20 [DIFF: 527]
+Unix time 1404129600 (30 Jun 14)
+Day: 30 On time: 22:29 Off time: 3:13
+Schedule time ON: 22:29 | Calculated time ON: 19:15 [DIFF: -11633]
+Schedule time OFF: 3:13 | Calculated time OFF: 3:21 [DIFF: 500]
+Month: 7
+Unix time 1404216000 (01 Jul 14)
+Day: 01 On time: 22:26 Off time: 3:14
+Schedule time ON: 22:26 | Calculated time ON: 19:14 [DIFF: -11466]
+Schedule time OFF: 3:14 | Calculated time OFF: 3:21 [DIFF: 476]
+Unix time 1404302400 (02 Jul 14)
+Day: 02 On time: 22:23 Off time: 3:15
+Schedule time ON: 22:23 | Calculated time ON: 19:14 [DIFF: -11301]
+Schedule time OFF: 3:15 | Calculated time OFF: 3:22 [DIFF: 454]
+Unix time 1404388800 (03 Jul 14)
+Day: 03 On time: 22:20 Off time: 3:16
+Schedule time ON: 22:20 | Calculated time ON: 19:14 [DIFF: -11139]
+Schedule time OFF: 3:16 | Calculated time OFF: 3:23 [DIFF: 434]
+Unix time 1404475200 (04 Jul 14)
+Day: 04 On time: 22:17 Off time: 3:17
+Schedule time ON: 22:17 | Calculated time ON: 19:14 [DIFF: -10979]
+Schedule time OFF: 3:17 | Calculated time OFF: 3:23 [DIFF: 416]
+Unix time 1404561600 (05 Jul 14)
+Day: 05 On time: 22:15 Off time: 3:19
+Schedule time ON: 22:15 | Calculated time ON: 19:13 [DIFF: -10882]
+Schedule time OFF: 3:19 | Calculated time OFF: 3:24 [DIFF: 339]
+Unix time 1404648000 (06 Jul 14)
+Day: 06 On time: 22:14 Off time: 3:20
+Schedule time ON: 22:14 | Calculated time ON: 19:13 [DIFF: -10848]
+Schedule time OFF: 3:20 | Calculated time OFF: 3:25 [DIFF: 325]
+Unix time 1404734400 (07 Jul 14)
+Day: 07 On time: 22:13 Off time: 3:21
+Schedule time ON: 22:13 | Calculated time ON: 19:12 [DIFF: -10816]
+Schedule time OFF: 3:21 | Calculated time OFF: 3:26 [DIFF: 313]
+Unix time 1404820800 (08 Jul 14)
+Day: 08 On time: 22:12 Off time: 3:23
+Schedule time ON: 22:12 | Calculated time ON: 19:12 [DIFF: -10787]
+Schedule time OFF: 3:23 | Calculated time OFF: 3:27 [DIFF: 242]
+Unix time 1404907200 (09 Jul 14)
+Day: 09 On time: 22:11 Off time: 3:25
+Schedule time ON: 22:11 | Calculated time ON: 19:11 [DIFF: -10760]
+Schedule time OFF: 3:25 | Calculated time OFF: 3:27 [DIFF: 173]
+Unix time 1404993600 (10 Jul 14)
+Day: 10 On time: 22:09 Off time: 3:27
+Schedule time ON: 22:09 | Calculated time ON: 19:11 [DIFF: -10676]
+Schedule time OFF: 3:27 | Calculated time OFF: 3:28 [DIFF: 105]
+Unix time 1405080000 (11 Jul 14)
+Day: 11 On time: 22:08 Off time: 3:28
+Schedule time ON: 22:08 | Calculated time ON: 19:10 [DIFF: -10654]
+Schedule time OFF: 3:28 | Calculated time OFF: 3:29 [DIFF: 100]
+Unix time 1405166400 (12 Jul 14)
+Day: 12 On time: 22:07 Off time: 3:29
+Schedule time ON: 22:07 | Calculated time ON: 19:09 [DIFF: -10635]
+Schedule time OFF: 3:29 | Calculated time OFF: 3:30 [DIFF: 95]
+Unix time 1405252800 (13 Jul 14)
+Day: 13 On time: 22:06 Off time: 3:31
+Schedule time ON: 22:06 | Calculated time ON: 19:09 [DIFF: -10618]
+Schedule time OFF: 3:31 | Calculated time OFF: 3:31 [DIFF: 33]
+Unix time 1405339200 (14 Jul 14)
+Day: 14 On time: 22:05 Off time: 3:33
+Schedule time ON: 22:05 | Calculated time ON: 19:08 [DIFF: -10603]
+Schedule time OFF: 3:33 | Calculated time OFF: 3:32 [DIFF: -29]
+Unix time 1405425600 (15 Jul 14)
+Day: 15 On time: 22:04 Off time: 3:35
+Schedule time ON: 22:04 | Calculated time ON: 19:07 [DIFF: -10591]
+Schedule time OFF: 3:35 | Calculated time OFF: 3:33 [DIFF: -88]
+Unix time 1405512000 (16 Jul 14)
+Day: 16 On time: 22:02 Off time: 3:37
+Schedule time ON: 22:02 | Calculated time ON: 19:06 [DIFF: -10521]
+Schedule time OFF: 3:37 | Calculated time OFF: 3:34 [DIFF: -147]
+Unix time 1405598400 (17 Jul 14)
+Day: 17 On time: 22:00 Off time: 3:39
+Schedule time ON: 22:00 | Calculated time ON: 19:05 [DIFF: -10454]
+Schedule time OFF: 3:39 | Calculated time OFF: 3:35 [DIFF: -204]
+Unix time 1405684800 (18 Jul 14)
+Day: 18 On time: 21:58 Off time: 3:41
+Schedule time ON: 21:58 | Calculated time ON: 19:04 [DIFF: -10389]
+Schedule time OFF: 3:41 | Calculated time OFF: 3:36 [DIFF: -260]
+Unix time 1405771200 (19 Jul 14)
+Day: 19 On time: 21:56 Off time: 3:43
+Schedule time ON: 21:56 | Calculated time ON: 19:03 [DIFF: -10326]
+Schedule time OFF: 3:43 | Calculated time OFF: 3:37 [DIFF: -315]
+Unix time 1405857600 (20 Jul 14)
+Day: 20 On time: 21:54 Off time: 3:45
+Schedule time ON: 21:54 | Calculated time ON: 19:02 [DIFF: -10265]
+Schedule time OFF: 3:45 | Calculated time OFF: 3:38 [DIFF: -369]
+Unix time 1405944000 (21 Jul 14)
+Day: 21 On time: 21:52 Off time: 3:47
+Schedule time ON: 21:52 | Calculated time ON: 19:01 [DIFF: -10206]
+Schedule time OFF: 3:47 | Calculated time OFF: 3:39 [DIFF: -422]
+Unix time 1406030400 (22 Jul 14)
+Day: 22 On time: 21:50 Off time: 3:49
+Schedule time ON: 21:50 | Calculated time ON: 19:00 [DIFF: -10150]
+Schedule time OFF: 3:49 | Calculated time OFF: 3:41 [DIFF: -474]
+Unix time 1406116800 (23 Jul 14)
+Day: 23 On time: 21:48 Off time: 3:51
+Schedule time ON: 21:48 | Calculated time ON: 18:59 [DIFF: -10096]
+Schedule time OFF: 3:51 | Calculated time OFF: 3:42 [DIFF: -525]
+Unix time 1406203200 (24 Jul 14)
+Day: 24 On time: 21:46 Off time: 3:53
+Schedule time ON: 21:46 | Calculated time ON: 18:58 [DIFF: -10043]
+Schedule time OFF: 3:53 | Calculated time OFF: 3:43 [DIFF: -574]
+Unix time 1406289600 (25 Jul 14)
+Day: 25 On time: 21:44 Off time: 3:56
+Schedule time ON: 21:44 | Calculated time ON: 18:57 [DIFF: -9993]
+Schedule time OFF: 3:56 | Calculated time OFF: 3:44 [DIFF: -684]
+Unix time 1406376000 (26 Jul 14)
+Day: 26 On time: 21:42 Off time: 3:58
+Schedule time ON: 21:42 | Calculated time ON: 18:56 [DIFF: -9945]
+Schedule time OFF: 3:58 | Calculated time OFF: 3:45 [DIFF: -732]
+Unix time 1406462400 (27 Jul 14)
+Day: 27 On time: 21:40 Off time: 4:00
+Schedule time ON: 21:40 | Calculated time ON: 18:55 [DIFF: -9899]
+Schedule time OFF: 4:00 | Calculated time OFF: 3:47 [DIFF: -779]
+Unix time 1406548800 (28 Jul 14)
+Day: 28 On time: 21:38 Off time: 4:02
+Schedule time ON: 21:38 | Calculated time ON: 18:53 [DIFF: -9854]
+Schedule time OFF: 4:02 | Calculated time OFF: 3:48 [DIFF: -826]
+Unix time 1406635200 (29 Jul 14)
+Day: 29 On time: 21:36 Off time: 4:04
+Schedule time ON: 21:36 | Calculated time ON: 18:52 [DIFF: -9812]
+Schedule time OFF: 4:04 | Calculated time OFF: 3:49 [DIFF: -872]
+Unix time 1406721600 (30 Jul 14)
+Day: 30 On time: 21:34 Off time: 4:07
+Schedule time ON: 21:34 | Calculated time ON: 18:51 [DIFF: -9771]
+Schedule time OFF: 4:07 | Calculated time OFF: 3:50 [DIFF: -978]
+Unix time 1406808000 (31 Jul 14)
+Day: 31 On time: 21:31 Off time: 4:10
+Schedule time ON: 21:31 | Calculated time ON: 18:49 [DIFF: -9672]
+Schedule time OFF: 4:10 | Calculated time OFF: 3:51 [DIFF: -1083]
+Month: 8
+Unix time 1406894400 (01 Aug 14)
+Day: 01 On time: 21:29 Off time: 4:12
+Schedule time ON: 21:29 | Calculated time ON: 18:48 [DIFF: -9635]
+Schedule time OFF: 4:12 | Calculated time OFF: 3:53 [DIFF: -1127]
+Unix time 1406980800 (02 Aug 14)
+Day: 02 On time: 21:27 Off time: 4:14
+Schedule time ON: 21:27 | Calculated time ON: 18:47 [DIFF: -9600]
+Schedule time OFF: 4:14 | Calculated time OFF: 3:54 [DIFF: -1171]
+Unix time 1407067200 (03 Aug 14)
+Day: 03 On time: 21:24 Off time: 4:16
+Schedule time ON: 21:24 | Calculated time ON: 18:45 [DIFF: -9506]
+Schedule time OFF: 4:16 | Calculated time OFF: 3:55 [DIFF: -1215]
+Unix time 1407153600 (04 Aug 14)
+Day: 04 On time: 21:21 Off time: 4:18
+Schedule time ON: 21:21 | Calculated time ON: 18:44 [DIFF: -9414]
+Schedule time OFF: 4:18 | Calculated time OFF: 3:57 [DIFF: -1258]
+Unix time 1407240000 (05 Aug 14)
+Day: 05 On time: 21:18 Off time: 4:21
+Schedule time ON: 21:18 | Calculated time ON: 18:42 [DIFF: -9324]
+Schedule time OFF: 4:21 | Calculated time OFF: 3:58 [DIFF: -1361]
+Unix time 1407326400 (06 Aug 14)
+Day: 06 On time: 21:16 Off time: 4:23
+Schedule time ON: 21:16 | Calculated time ON: 18:41 [DIFF: -9295]
+Schedule time OFF: 4:23 | Calculated time OFF: 3:59 [DIFF: -1403]
+Unix time 1407412800 (07 Aug 14)
+Day: 07 On time: 21:14 Off time: 4:25
+Schedule time ON: 21:14 | Calculated time ON: 18:39 [DIFF: -9267]
+Schedule time OFF: 4:25 | Calculated time OFF: 4:00 [DIFF: -1445]
+Unix time 1407499200 (08 Aug 14)
+Day: 08 On time: 21:11 Off time: 4:28
+Schedule time ON: 21:11 | Calculated time ON: 18:37 [DIFF: -9181]
+Schedule time OFF: 4:28 | Calculated time OFF: 4:02 [DIFF: -1547]
+Unix time 1407585600 (09 Aug 14)
+Day: 09 On time: 21:08 Off time: 4:31
+Schedule time ON: 21:08 | Calculated time ON: 18:36 [DIFF: -9097]
+Schedule time OFF: 4:31 | Calculated time OFF: 4:03 [DIFF: -1648]
+Unix time 1407672000 (10 Aug 14)
+Day: 10 On time: 21:05 Off time: 4:34
+Schedule time ON: 21:05 | Calculated time ON: 18:34 [DIFF: -9013]
+Schedule time OFF: 4:34 | Calculated time OFF: 4:04 [DIFF: -1749]
+Unix time 1407758400 (11 Aug 14)
+Day: 11 On time: 21:03 Off time: 4:36
+Schedule time ON: 21:03 | Calculated time ON: 18:33 [DIFF: -8992]
+Schedule time OFF: 4:36 | Calculated time OFF: 4:06 [DIFF: -1790]
+Unix time 1407844800 (12 Aug 14)
+Day: 12 On time: 21:00 Off time: 4:38
+Schedule time ON: 21:00 | Calculated time ON: 18:31 [DIFF: -8911]
+Schedule time OFF: 4:38 | Calculated time OFF: 4:07 [DIFF: -1831]
+Unix time 1407931200 (13 Aug 14)
+Day: 13 On time: 20:57 Off time: 4:40
+Schedule time ON: 20:57 | Calculated time ON: 18:29 [DIFF: -8832]
+Schedule time OFF: 4:40 | Calculated time OFF: 4:08 [DIFF: -1872]
+Unix time 1408017600 (14 Aug 14)
+Day: 14 On time: 20:54 Off time: 4:43
+Schedule time ON: 20:54 | Calculated time ON: 18:28 [DIFF: -8754]
+Schedule time OFF: 4:43 | Calculated time OFF: 4:10 [DIFF: -1973]
+Unix time 1408104000 (15 Aug 14)
+Day: 15 On time: 20:51 Off time: 4:46
+Schedule time ON: 20:51 | Calculated time ON: 18:26 [DIFF: -8677]
+Schedule time OFF: 4:46 | Calculated time OFF: 4:11 [DIFF: -2073]
+Unix time 1408190400 (16 Aug 14)
+Day: 16 On time: 20:49 Off time: 4:48
+Schedule time ON: 20:49 | Calculated time ON: 18:24 [DIFF: -8661]
+Schedule time OFF: 4:48 | Calculated time OFF: 4:12 [DIFF: -2113]
+Unix time 1408276800 (17 Aug 14)
+Day: 17 On time: 20:47 Off time: 4:50
+Schedule time ON: 20:47 | Calculated time ON: 18:22 [DIFF: -8647]
+Schedule time OFF: 4:50 | Calculated time OFF: 4:14 [DIFF: -2154]
+Unix time 1408363200 (18 Aug 14)
+Day: 18 On time: 20:45 Off time: 4:52
+Schedule time ON: 20:45 | Calculated time ON: 18:21 [DIFF: -8633]
+Schedule time OFF: 4:52 | Calculated time OFF: 4:15 [DIFF: -2194]
+Unix time 1408449600 (19 Aug 14)
+Day: 19 On time: 20:43 Off time: 4:55
+Schedule time ON: 20:43 | Calculated time ON: 18:19 [DIFF: -8621]
+Schedule time OFF: 4:55 | Calculated time OFF: 4:16 [DIFF: -2294]
+Unix time 1408536000 (20 Aug 14)
+Day: 20 On time: 20:40 Off time: 4:58
+Schedule time ON: 20:40 | Calculated time ON: 18:17 [DIFF: -8549]
+Schedule time OFF: 4:58 | Calculated time OFF: 4:18 [DIFF: -2394]
+Unix time 1408622400 (21 Aug 14)
+Day: 21 On time: 20:37 Off time: 5:00
+Schedule time ON: 20:37 | Calculated time ON: 18:15 [DIFF: -8479]
+Schedule time OFF: 5:00 | Calculated time OFF: 4:19 [DIFF: -2434]
+Unix time 1408708800 (22 Aug 14)
+Day: 22 On time: 20:34 Off time: 5:02
+Schedule time ON: 20:34 | Calculated time ON: 18:13 [DIFF: -8409]
+Schedule time OFF: 5:02 | Calculated time OFF: 4:20 [DIFF: -2474]
+Unix time 1408795200 (23 Aug 14)
+Day: 23 On time: 20:31 Off time: 5:04
+Schedule time ON: 20:31 | Calculated time ON: 18:11 [DIFF: -8341]
+Schedule time OFF: 5:04 | Calculated time OFF: 4:22 [DIFF: -2514]
+Unix time 1408881600 (24 Aug 14)
+Day: 24 On time: 20:28 Off time: 5:06
+Schedule time ON: 20:28 | Calculated time ON: 18:10 [DIFF: -8273]
+Schedule time OFF: 5:06 | Calculated time OFF: 4:23 [DIFF: -2554]
+Unix time 1408968000 (25 Aug 14)
+Day: 25 On time: 20:25 Off time: 5:08
+Schedule time ON: 20:25 | Calculated time ON: 18:08 [DIFF: -8206]
+Schedule time OFF: 5:08 | Calculated time OFF: 4:24 [DIFF: -2594]
+Unix time 1409054400 (26 Aug 14)
+Day: 26 On time: 20:23 Off time: 5:10
+Schedule time ON: 20:23 | Calculated time ON: 18:06 [DIFF: -8200]
+Schedule time OFF: 5:10 | Calculated time OFF: 4:26 [DIFF: -2634]
+Unix time 1409140800 (27 Aug 14)
+Day: 27 On time: 20:21 Off time: 5:12
+Schedule time ON: 20:21 | Calculated time ON: 18:04 [DIFF: -8194]
+Schedule time OFF: 5:12 | Calculated time OFF: 4:27 [DIFF: -2674]
+Unix time 1409227200 (28 Aug 14)
+Day: 28 On time: 20:18 Off time: 5:14
+Schedule time ON: 20:18 | Calculated time ON: 18:02 [DIFF: -8130]
+Schedule time OFF: 5:14 | Calculated time OFF: 4:28 [DIFF: -2714]
+Unix time 1409313600 (29 Aug 14)
+Day: 29 On time: 20:15 Off time: 5:17
+Schedule time ON: 20:15 | Calculated time ON: 18:00 [DIFF: -8066]
+Schedule time OFF: 5:17 | Calculated time OFF: 4:30 [DIFF: -2814]
+Unix time 1409400000 (30 Aug 14)
+Day: 30 On time: 20:12 Off time: 5:20
+Schedule time ON: 20:12 | Calculated time ON: 17:58 [DIFF: -8002]
+Schedule time OFF: 5:20 | Calculated time OFF: 4:31 [DIFF: -2914]
+Unix time 1409486400 (31 Aug 14)
+Day: 31 On time: 20:09 Off time: 5:23
+Schedule time ON: 20:09 | Calculated time ON: 17:56 [DIFF: -7940]
+Schedule time OFF: 5:23 | Calculated time OFF: 4:32 [DIFF: -3014]
+Month: 9
+Unix time 1409572800 (01 Sep 14)
+Day: 01 On time: 20:06 Off time: 5:25
+Schedule time ON: 20:06 | Calculated time ON: 17:54 [DIFF: -7878]
+Schedule time OFF: 5:25 | Calculated time OFF: 4:34 [DIFF: -3054]
+Unix time 1409659200 (02 Sep 14)
+Day: 02 On time: 20:03 Off time: 5:27
+Schedule time ON: 20:03 | Calculated time ON: 17:52 [DIFF: -7816]
+Schedule time OFF: 5:27 | Calculated time OFF: 4:35 [DIFF: -3095]
+Unix time 1409745600 (03 Sep 14)
+Day: 03 On time: 20:00 Off time: 5:29
+Schedule time ON: 20:00 | Calculated time ON: 17:50 [DIFF: -7755]
+Schedule time OFF: 5:29 | Calculated time OFF: 4:36 [DIFF: -3135]
+Unix time 1409832000 (04 Sep 14)
+Day: 04 On time: 19:57 Off time: 5:31
+Schedule time ON: 19:57 | Calculated time ON: 17:48 [DIFF: -7695]
+Schedule time OFF: 5:31 | Calculated time OFF: 4:38 [DIFF: -3175]
+Unix time 1409918400 (05 Sep 14)
+Day: 05 On time: 19:54 Off time: 5:33
+Schedule time ON: 19:54 | Calculated time ON: 17:46 [DIFF: -7635]
+Schedule time OFF: 5:33 | Calculated time OFF: 4:39 [DIFF: -3215]
+Unix time 1410004800 (06 Sep 14)
+Day: 06 On time: 19:52 Off time: 5:35
+Schedule time ON: 19:52 | Calculated time ON: 17:44 [DIFF: -7635]
+Schedule time OFF: 5:35 | Calculated time OFF: 4:40 [DIFF: -3255]
+Unix time 1410091200 (07 Sep 14)
+Day: 07 On time: 19:49 Off time: 5:37
+Schedule time ON: 19:49 | Calculated time ON: 17:42 [DIFF: -7576]
+Schedule time OFF: 5:37 | Calculated time OFF: 4:42 [DIFF: -3295]
+Unix time 1410177600 (08 Sep 14)
+Day: 08 On time: 19:46 Off time: 5:39
+Schedule time ON: 19:46 | Calculated time ON: 17:40 [DIFF: -7517]
+Schedule time OFF: 5:39 | Calculated time OFF: 4:43 [DIFF: -3336]
+Unix time 1410264000 (09 Sep 14)
+Day: 09 On time: 19:43 Off time: 5:42
+Schedule time ON: 19:43 | Calculated time ON: 17:38 [DIFF: -7459]
+Schedule time OFF: 5:42 | Calculated time OFF: 4:44 [DIFF: -3436]
+Unix time 1410350400 (10 Sep 14)
+Day: 10 On time: 19:40 Off time: 5:45
+Schedule time ON: 19:40 | Calculated time ON: 17:36 [DIFF: -7400]
+Schedule time OFF: 5:45 | Calculated time OFF: 4:46 [DIFF: -3536]
+Unix time 1410436800 (11 Sep 14)
+Day: 11 On time: 19:37 Off time: 5:47
+Schedule time ON: 19:37 | Calculated time ON: 17:34 [DIFF: -7343]
+Schedule time OFF: 5:47 | Calculated time OFF: 4:47 [DIFF: -3576]
+Unix time 1410523200 (12 Sep 14)
+Day: 12 On time: 19:34 Off time: 5:49
+Schedule time ON: 19:34 | Calculated time ON: 17:32 [DIFF: -7285]
+Schedule time OFF: 5:49 | Calculated time OFF: 4:48 [DIFF: -3616]
+Unix time 1410609600 (13 Sep 14)
+Day: 13 On time: 19:31 Off time: 5:51
+Schedule time ON: 19:31 | Calculated time ON: 17:30 [DIFF: -7227]
+Schedule time OFF: 5:51 | Calculated time OFF: 4:50 [DIFF: -3656]
+Unix time 1410696000 (14 Sep 14)
+Day: 14 On time: 19:28 Off time: 5:53
+Schedule time ON: 19:28 | Calculated time ON: 17:28 [DIFF: -7170]
+Schedule time OFF: 5:53 | Calculated time OFF: 4:51 [DIFF: -3696]
+Unix time 1410782400 (15 Sep 14)
+Day: 15 On time: 19:25 Off time: 5:55
+Schedule time ON: 19:25 | Calculated time ON: 17:26 [DIFF: -7113]
+Schedule time OFF: 5:55 | Calculated time OFF: 4:52 [DIFF: -3736]
+Unix time 1410868800 (16 Sep 14)
+Day: 16 On time: 19:23 Off time: 5:57
+Schedule time ON: 19:23 | Calculated time ON: 17:24 [DIFF: -7116]
+Schedule time OFF: 5:57 | Calculated time OFF: 4:54 [DIFF: -3776]
+Unix time 1410955200 (17 Sep 14)
+Day: 17 On time: 19:20 Off time: 5:59
+Schedule time ON: 19:20 | Calculated time ON: 17:22 [DIFF: -7059]
+Schedule time OFF: 5:59 | Calculated time OFF: 4:55 [DIFF: -3815]
+Unix time 1411041600 (18 Sep 14)
+Day: 18 On time: 19:17 Off time: 6:01
+Schedule time ON: 19:17 | Calculated time ON: 17:20 [DIFF: -7003]
+Schedule time OFF: 6:01 | Calculated time OFF: 4:56 [DIFF: -3855]
+Unix time 1411128000 (19 Sep 14)
+Day: 19 On time: 19:14 Off time: 6:03
+Schedule time ON: 19:14 | Calculated time ON: 17:18 [DIFF: -6946]
+Schedule time OFF: 6:03 | Calculated time OFF: 4:58 [DIFF: -3894]
+Unix time 1411214400 (20 Sep 14)
+Day: 20 On time: 19:11 Off time: 6:05
+Schedule time ON: 19:11 | Calculated time ON: 17:16 [DIFF: -6889]
+Schedule time OFF: 6:05 | Calculated time OFF: 4:59 [DIFF: -3934]
+Unix time 1411300800 (21 Sep 14)
+Day: 21 On time: 19:09 Off time: 6:07
+Schedule time ON: 19:09 | Calculated time ON: 17:14 [DIFF: -6892]
+Schedule time OFF: 6:07 | Calculated time OFF: 5:00 [DIFF: -3973]
+Unix time 1411387200 (22 Sep 14)
+Day: 22 On time: 19:07 Off time: 6:09
+Schedule time ON: 19:07 | Calculated time ON: 17:12 [DIFF: -6895]
+Schedule time OFF: 6:09 | Calculated time OFF: 5:02 [DIFF: -4012]
+Unix time 1411473600 (23 Sep 14)
+Day: 23 On time: 19:05 Off time: 6:11
+Schedule time ON: 19:05 | Calculated time ON: 17:10 [DIFF: -6899]
+Schedule time OFF: 6:11 | Calculated time OFF: 5:03 [DIFF: -4051]
+Unix time 1411560000 (24 Sep 14)
+Day: 24 On time: 19:02 Off time: 6:13
+Schedule time ON: 19:02 | Calculated time ON: 17:07 [DIFF: -6842]
+Schedule time OFF: 6:13 | Calculated time OFF: 5:04 [DIFF: -4090]
+Unix time 1411646400 (25 Sep 14)
+Day: 25 On time: 18:59 Off time: 6:15
+Schedule time ON: 18:59 | Calculated time ON: 17:05 [DIFF: -6784]
+Schedule time OFF: 6:15 | Calculated time OFF: 5:06 [DIFF: -4129]
+Unix time 1411732800 (26 Sep 14)
+Day: 26 On time: 18:57 Off time: 6:17
+Schedule time ON: 18:57 | Calculated time ON: 17:03 [DIFF: -6787]
+Schedule time OFF: 6:17 | Calculated time OFF: 5:07 [DIFF: -4167]
+Unix time 1411819200 (27 Sep 14)
+Day: 27 On time: 18:54 Off time: 6:19
+Schedule time ON: 18:54 | Calculated time ON: 17:01 [DIFF: -6730]
+Schedule time OFF: 6:19 | Calculated time OFF: 5:08 [DIFF: -4206]
+Unix time 1411905600 (28 Sep 14)
+Day: 28 On time: 18:51 Off time: 6:21
+Schedule time ON: 18:51 | Calculated time ON: 16:59 [DIFF: -6672]
+Schedule time OFF: 6:21 | Calculated time OFF: 5:10 [DIFF: -4244]
+Unix time 1411992000 (29 Sep 14)
+Day: 29 On time: 18:48 Off time: 6:23
+Schedule time ON: 18:48 | Calculated time ON: 16:57 [DIFF: -6614]
+Schedule time OFF: 6:23 | Calculated time OFF: 5:11 [DIFF: -4282]
+Unix time 1412078400 (30 Sep 14)
+Day: 30 On time: 18:45 Off time: 6:26
+Schedule time ON: 18:45 | Calculated time ON: 16:55 [DIFF: -6555]
+Schedule time OFF: 6:26 | Calculated time OFF: 5:13 [DIFF: -4379]
+Month: 10
+Unix time 1412164800 (01 Oct 14)
+Day: 01 On time: 18:42 Off time: 6:28
+Schedule time ON: 18:42 | Calculated time ON: 16:53 [DIFF: -6497]
+Schedule time OFF: 6:28 | Calculated time OFF: 5:14 [DIFF: -4417]
+Unix time 1412251200 (02 Oct 14)
+Day: 02 On time: 18:39 Off time: 6:30
+Schedule time ON: 18:39 | Calculated time ON: 16:51 [DIFF: -6438]
+Schedule time OFF: 6:30 | Calculated time OFF: 5:15 [DIFF: -4454]
+Unix time 1412337600 (03 Oct 14)
+Day: 03 On time: 18:36 Off time: 6:32
+Schedule time ON: 18:36 | Calculated time ON: 16:49 [DIFF: -6378]
+Schedule time OFF: 6:32 | Calculated time OFF: 5:17 [DIFF: -4491]
+Unix time 1412424000 (04 Oct 14)
+Day: 04 On time: 18:34 Off time: 6:34
+Schedule time ON: 18:34 | Calculated time ON: 16:47 [DIFF: -6378]
+Schedule time OFF: 6:34 | Calculated time OFF: 5:18 [DIFF: -4528]
+Unix time 1412510400 (05 Oct 14)
+Day: 05 On time: 18:32 Off time: 6:36
+Schedule time ON: 18:32 | Calculated time ON: 16:45 [DIFF: -6378]
+Schedule time OFF: 6:36 | Calculated time OFF: 5:19 [DIFF: -4564]
+Unix time 1412596800 (06 Oct 14)
+Day: 06 On time: 18:29 Off time: 6:38
+Schedule time ON: 18:29 | Calculated time ON: 16:43 [DIFF: -6317]
+Schedule time OFF: 6:38 | Calculated time OFF: 5:21 [DIFF: -4600]
+Unix time 1412683200 (07 Oct 14)
+Day: 07 On time: 18:26 Off time: 6:40
+Schedule time ON: 18:26 | Calculated time ON: 16:41 [DIFF: -6256]
+Schedule time OFF: 6:40 | Calculated time OFF: 5:22 [DIFF: -4636]
+Unix time 1412769600 (08 Oct 14)
+Day: 08 On time: 18:23 Off time: 6:42
+Schedule time ON: 18:23 | Calculated time ON: 16:39 [DIFF: -6194]
+Schedule time OFF: 6:42 | Calculated time OFF: 5:24 [DIFF: -4672]
+Unix time 1412856000 (09 Oct 14)
+Day: 09 On time: 18:21 Off time: 6:44
+Schedule time ON: 18:21 | Calculated time ON: 16:37 [DIFF: -6192]
+Schedule time OFF: 6:44 | Calculated time OFF: 5:25 [DIFF: -4707]
+Unix time 1412942400 (10 Oct 14)
+Day: 10 On time: 18:19 Off time: 6:46
+Schedule time ON: 18:19 | Calculated time ON: 16:35 [DIFF: -6189]
+Schedule time OFF: 6:46 | Calculated time OFF: 5:26 [DIFF: -4742]
+Unix time 1413028800 (11 Oct 14)
+Day: 11 On time: 18:16 Off time: 6:48
+Schedule time ON: 18:16 | Calculated time ON: 16:33 [DIFF: -6125]
+Schedule time OFF: 6:48 | Calculated time OFF: 5:28 [DIFF: -4777]
+Unix time 1413115200 (12 Oct 14)
+Day: 12 On time: 18:13 Off time: 6:50
+Schedule time ON: 18:13 | Calculated time ON: 16:31 [DIFF: -6061]
+Schedule time OFF: 6:50 | Calculated time OFF: 5:29 [DIFF: -4811]
+Unix time 1413201600 (13 Oct 14)
+Day: 13 On time: 18:10 Off time: 6:52
+Schedule time ON: 18:10 | Calculated time ON: 16:30 [DIFF: -5995]
+Schedule time OFF: 6:52 | Calculated time OFF: 5:31 [DIFF: -4845]
+Unix time 1413288000 (14 Oct 14)
+Day: 14 On time: 18:08 Off time: 6:54
+Schedule time ON: 18:08 | Calculated time ON: 16:28 [DIFF: -5989]
+Schedule time OFF: 6:54 | Calculated time OFF: 5:32 [DIFF: -4879]
+Unix time 1413374400 (15 Oct 14)
+Day: 15 On time: 18:06 Off time: 6:56
+Schedule time ON: 18:06 | Calculated time ON: 16:26 [DIFF: -5983]
+Schedule time OFF: 6:56 | Calculated time OFF: 5:34 [DIFF: -4913]
+Unix time 1413460800 (16 Oct 14)
+Day: 16 On time: 18:03 Off time: 6:58
+Schedule time ON: 18:03 | Calculated time ON: 16:24 [DIFF: -5915]
+Schedule time OFF: 6:58 | Calculated time OFF: 5:35 [DIFF: -4946]
+Unix time 1413547200 (17 Oct 14)
+Day: 17 On time: 18:00 Off time: 7:00
+Schedule time ON: 18:00 | Calculated time ON: 16:22 [DIFF: -5847]
+Schedule time OFF: 7:00 | Calculated time OFF: 5:37 [DIFF: -4979]
+Unix time 1413633600 (18 Oct 14)
+Day: 18 On time: 17:57 Off time: 7:02
+Schedule time ON: 17:57 | Calculated time ON: 16:20 [DIFF: -5778]
+Schedule time OFF: 7:02 | Calculated time OFF: 5:38 [DIFF: -5011]
+Unix time 1413720000 (19 Oct 14)
+Day: 19 On time: 17:55 Off time: 7:04
+Schedule time ON: 17:55 | Calculated time ON: 16:18 [DIFF: -5767]
+Schedule time OFF: 7:04 | Calculated time OFF: 5:39 [DIFF: -5044]
+Unix time 1413806400 (20 Oct 14)
+Day: 20 On time: 17:53 Off time: 7:06
+Schedule time ON: 17:53 | Calculated time ON: 16:17 [DIFF: -5756]
+Schedule time OFF: 7:06 | Calculated time OFF: 5:41 [DIFF: -5076]
+Unix time 1413892800 (21 Oct 14)
+Day: 21 On time: 17:50 Off time: 7:08
+Schedule time ON: 17:50 | Calculated time ON: 16:15 [DIFF: -5684]
+Schedule time OFF: 7:08 | Calculated time OFF: 5:42 [DIFF: -5107]
+Unix time 1413979200 (22 Oct 14)
+Day: 22 On time: 17:47 Off time: 7:10
+Schedule time ON: 17:47 | Calculated time ON: 16:13 [DIFF: -5611]
+Schedule time OFF: 7:10 | Calculated time OFF: 5:44 [DIFF: -5139]
+Unix time 1414065600 (23 Oct 14)
+Day: 23 On time: 17:45 Off time: 7:12
+Schedule time ON: 17:45 | Calculated time ON: 16:11 [DIFF: -5596]
+Schedule time OFF: 7:12 | Calculated time OFF: 5:45 [DIFF: -5170]
+Unix time 1414152000 (24 Oct 14)
+Day: 24 On time: 17:43 Off time: 7:14
+Schedule time ON: 17:43 | Calculated time ON: 16:09 [DIFF: -5581]
+Schedule time OFF: 7:14 | Calculated time OFF: 5:47 [DIFF: -5201]
+Unix time 1414238400 (25 Oct 14)
+Day: 25 On time: 17:41 Off time: 7:16
+Schedule time ON: 17:41 | Calculated time ON: 16:08 [DIFF: -5564]
+Schedule time OFF: 7:16 | Calculated time OFF: 5:48 [DIFF: -5232]
+Unix time 1414324800 (26 Oct 14)
+Day: 26 On time: 17:38 Off time: 7:19
+Schedule time ON: 17:38 | Calculated time ON: 16:06 [DIFF: -5486]
+Schedule time OFF: 7:19 | Calculated time OFF: 5:50 [DIFF: -5322]
+Unix time 1414411200 (27 Oct 14)
+Day: 27 On time: 17:35 Off time: 7:22
+Schedule time ON: 17:35 | Calculated time ON: 16:04 [DIFF: -5407]
+Schedule time OFF: 7:22 | Calculated time OFF: 5:51 [DIFF: -5412]
+Unix time 1414497600 (28 Oct 14)
+Day: 28 On time: 17:33 Off time: 7:24
+Schedule time ON: 17:33 | Calculated time ON: 16:03 [DIFF: -5386]
+Schedule time OFF: 7:24 | Calculated time OFF: 5:53 [DIFF: -5442]
+Unix time 1414584000 (29 Oct 14)
+Day: 29 On time: 17:31 Off time: 7:26
+Schedule time ON: 17:31 | Calculated time ON: 16:01 [DIFF: -5365]
+Schedule time OFF: 7:26 | Calculated time OFF: 5:54 [DIFF: -5472]
+Unix time 1414670400 (30 Oct 14)
+Day: 30 On time: 17:29 Off time: 7:28
+Schedule time ON: 17:29 | Calculated time ON: 15:59 [DIFF: -5341]
+Schedule time OFF: 7:28 | Calculated time OFF: 5:56 [DIFF: -5502]
+Unix time 1414756800 (31 Oct 14)
+Day: 31 On time: 17:27 Off time: 7:30
+Schedule time ON: 17:27 | Calculated time ON: 15:58 [DIFF: -5317]
+Schedule time OFF: 7:30 | Calculated time OFF: 5:57 [DIFF: -5531]
+Month: 11
+Unix time 1414843200 (01 Nov 14)
+Day: 01 On time: 17:24 Off time: 7:33
+Schedule time ON: 17:24 | Calculated time ON: 15:56 [DIFF: -5231]
+Schedule time OFF: 7:33 | Calculated time OFF: 5:59 [DIFF: -5621]
+Unix time 1414929600 (02 Nov 14)
+Day: 02 On time: 17:22 Off time: 7:35
+Schedule time ON: 17:22 | Calculated time ON: 15:55 [DIFF: -5203]
+Schedule time OFF: 7:35 | Calculated time OFF: 6:00 [DIFF: -5650]
+Unix time 1415016000 (03 Nov 14)
+Day: 03 On time: 17:20 Off time: 7:37
+Schedule time ON: 17:20 | Calculated time ON: 15:53 [DIFF: -5174]
+Schedule time OFF: 7:37 | Calculated time OFF: 6:02 [DIFF: -5679]
+Unix time 1415102400 (04 Nov 14)
+Day: 04 On time: 17:18 Off time: 7:39
+Schedule time ON: 17:18 | Calculated time ON: 15:52 [DIFF: -5143]
+Schedule time OFF: 7:39 | Calculated time OFF: 6:03 [DIFF: -5709]
+Unix time 1415188800 (05 Nov 14)
+Day: 05 On time: 17:16 Off time: 7:41
+Schedule time ON: 17:16 | Calculated time ON: 15:50 [DIFF: -5111]
+Schedule time OFF: 7:41 | Calculated time OFF: 6:05 [DIFF: -5738]
+Unix time 1415275200 (06 Nov 14)
+Day: 06 On time: 17:13 Off time: 7:44
+Schedule time ON: 17:13 | Calculated time ON: 15:49 [DIFF: -5017]
+Schedule time OFF: 7:44 | Calculated time OFF: 6:06 [DIFF: -5827]
+Unix time 1415361600 (07 Nov 14)
+Day: 07 On time: 17:11 Off time: 7:46
+Schedule time ON: 17:11 | Calculated time ON: 15:47 [DIFF: -4981]
+Schedule time OFF: 7:46 | Calculated time OFF: 6:08 [DIFF: -5856]
+Unix time 1415448000 (08 Nov 14)
+Day: 08 On time: 17:09 Off time: 7:48
+Schedule time ON: 17:09 | Calculated time ON: 15:46 [DIFF: -4943]
+Schedule time OFF: 7:48 | Calculated time OFF: 6:09 [DIFF: -5886]
+Unix time 1415534400 (09 Nov 14)
+Day: 09 On time: 17:07 Off time: 7:50
+Schedule time ON: 17:07 | Calculated time ON: 15:45 [DIFF: -4904]
+Schedule time OFF: 7:50 | Calculated time OFF: 6:11 [DIFF: -5915]
+Unix time 1415620800 (10 Nov 14)
+Day: 10 On time: 17:05 Off time: 7:52
+Schedule time ON: 17:05 | Calculated time ON: 15:43 [DIFF: -4862]
+Schedule time OFF: 7:52 | Calculated time OFF: 6:12 [DIFF: -5945]
+Unix time 1415707200 (11 Nov 14)
+Day: 11 On time: 17:03 Off time: 7:55
+Schedule time ON: 17:03 | Calculated time ON: 15:42 [DIFF: -4819]
+Schedule time OFF: 7:55 | Calculated time OFF: 6:14 [DIFF: -6035]
+Unix time 1415793600 (12 Nov 14)
+Day: 12 On time: 17:01 Off time: 7:58
+Schedule time ON: 17:01 | Calculated time ON: 15:41 [DIFF: -4774]
+Schedule time OFF: 7:58 | Calculated time OFF: 6:15 [DIFF: -6125]
+Unix time 1415880000 (13 Nov 14)
+Day: 13 On time: 16:59 Off time: 8:00
+Schedule time ON: 16:59 | Calculated time ON: 15:40 [DIFF: -4727]
+Schedule time OFF: 8:00 | Calculated time OFF: 6:17 [DIFF: -6156]
+Unix time 1415966400 (14 Nov 14)
+Day: 14 On time: 16:58 Off time: 8:02
+Schedule time ON: 16:58 | Calculated time ON: 15:39 [DIFF: -4738]
+Schedule time OFF: 8:02 | Calculated time OFF: 6:18 [DIFF: -6187]
+Unix time 1416052800 (15 Nov 14)
+Day: 15 On time: 16:57 Off time: 8:04
+Schedule time ON: 16:57 | Calculated time ON: 15:37 [DIFF: -4746]
+Schedule time OFF: 8:04 | Calculated time OFF: 6:20 [DIFF: -6218]
+Unix time 1416139200 (16 Nov 14)
+Day: 16 On time: 16:55 Off time: 8:06
+Schedule time ON: 16:55 | Calculated time ON: 15:36 [DIFF: -4693]
+Schedule time OFF: 8:06 | Calculated time OFF: 6:21 [DIFF: -6250]
+Unix time 1416225600 (17 Nov 14)
+Day: 17 On time: 16:53 Off time: 8:08
+Schedule time ON: 16:53 | Calculated time ON: 15:35 [DIFF: -4637]
+Schedule time OFF: 8:08 | Calculated time OFF: 6:23 [DIFF: -6282]
+Unix time 1416312000 (18 Nov 14)
+Day: 18 On time: 16:51 Off time: 8:10
+Schedule time ON: 16:51 | Calculated time ON: 15:34 [DIFF: -4579]
+Schedule time OFF: 8:10 | Calculated time OFF: 6:24 [DIFF: -6315]
+Unix time 1416398400 (19 Nov 14)
+Day: 19 On time: 16:50 Off time: 8:12
+Schedule time ON: 16:50 | Calculated time ON: 15:33 [DIFF: -4579]
+Schedule time OFF: 8:12 | Calculated time OFF: 6:26 [DIFF: -6348]
+Unix time 1416484800 (20 Nov 14)
+Day: 20 On time: 16:48 Off time: 8:14
+Schedule time ON: 16:48 | Calculated time ON: 15:32 [DIFF: -4516]
+Schedule time OFF: 8:14 | Calculated time OFF: 6:27 [DIFF: -6382]
+Unix time 1416571200 (21 Nov 14)
+Day: 21 On time: 16:46 Off time: 8:16
+Schedule time ON: 16:46 | Calculated time ON: 15:31 [DIFF: -4451]
+Schedule time OFF: 8:16 | Calculated time OFF: 6:29 [DIFF: -6417]
+Unix time 1416657600 (22 Nov 14)
+Day: 22 On time: 16:44 Off time: 8:18
+Schedule time ON: 16:44 | Calculated time ON: 15:30 [DIFF: -4384]
+Schedule time OFF: 8:18 | Calculated time OFF: 6:30 [DIFF: -6453]
+Unix time 1416744000 (23 Nov 14)
+Day: 23 On time: 16:42 Off time: 8:20
+Schedule time ON: 16:42 | Calculated time ON: 15:30 [DIFF: -4314]
+Schedule time OFF: 8:20 | Calculated time OFF: 6:31 [DIFF: -6490]
+Unix time 1416830400 (24 Nov 14)
+Day: 24 On time: 16:41 Off time: 8:21
+Schedule time ON: 16:41 | Calculated time ON: 15:29 [DIFF: -4302]
+Schedule time OFF: 8:21 | Calculated time OFF: 6:33 [DIFF: -6467]
+Unix time 1416916800 (25 Nov 14)
+Day: 25 On time: 16:40 Off time: 8:22
+Schedule time ON: 16:40 | Calculated time ON: 15:28 [DIFF: -4287]
+Schedule time OFF: 8:22 | Calculated time OFF: 6:34 [DIFF: -6446]
+Unix time 1417003200 (26 Nov 14)
+Day: 26 On time: 16:39 Off time: 8:24
+Schedule time ON: 16:39 | Calculated time ON: 15:27 [DIFF: -4269]
+Schedule time OFF: 8:24 | Calculated time OFF: 6:35 [DIFF: -6486]
+Unix time 1417089600 (27 Nov 14)
+Day: 27 On time: 16:38 Off time: 8:26
+Schedule time ON: 16:38 | Calculated time ON: 15:27 [DIFF: -4249]
+Schedule time OFF: 8:26 | Calculated time OFF: 6:37 [DIFF: -6526]
+Unix time 1417176000 (28 Nov 14)
+Day: 28 On time: 16:37 Off time: 8:28
+Schedule time ON: 16:37 | Calculated time ON: 15:26 [DIFF: -4227]
+Schedule time OFF: 8:28 | Calculated time OFF: 6:38 [DIFF: -6569]
+Unix time 1417262400 (29 Nov 14)
+Day: 29 On time: 16:36 Off time: 8:30
+Schedule time ON: 16:36 | Calculated time ON: 15:25 [DIFF: -4201]
+Schedule time OFF: 8:30 | Calculated time OFF: 6:39 [DIFF: -6612]
+Unix time 1417348800 (30 Nov 14)
+Day: 30 On time: 15:36 Off time: 8:32
+Schedule time ON: 15:36 | Calculated time ON: 15:25 [DIFF: -633]
+Schedule time OFF: 8:32 | Calculated time OFF: 6:41 [DIFF: -6657]
+Month: 12
+Unix time 1417435200 (01 Dec 14)
+Day: 01 On time: 16:35 Off time: 8:33
+Schedule time ON: 16:35 | Calculated time ON: 15:24 [DIFF: -4203]
+Schedule time OFF: 8:33 | Calculated time OFF: 6:42 [DIFF: -6643]
+Unix time 1417521600 (02 Dec 14)
+Day: 02 On time: 16:34 Off time: 8:34
+Schedule time ON: 16:34 | Calculated time ON: 15:24 [DIFF: -4169]
+Schedule time OFF: 8:34 | Calculated time OFF: 6:43 [DIFF: -6630]
+Unix time 1417608000 (03 Dec 14)
+Day: 03 On time: 16:33 Off time: 8:35
+Schedule time ON: 16:33 | Calculated time ON: 15:24 [DIFF: -4133]
+Schedule time OFF: 8:35 | Calculated time OFF: 6:44 [DIFF: -6620]
+Unix time 1417694400 (04 Dec 14)
+Day: 04 On time: 16:32 Off time: 8:36
+Schedule time ON: 16:32 | Calculated time ON: 15:23 [DIFF: -4093]
+Schedule time OFF: 8:36 | Calculated time OFF: 6:45 [DIFF: -6610]
+Unix time 1417780800 (05 Dec 14)
+Day: 05 On time: 16:31 Off time: 8:37
+Schedule time ON: 16:31 | Calculated time ON: 15:23 [DIFF: -4051]
+Schedule time OFF: 8:37 | Calculated time OFF: 6:46 [DIFF: -6603]
+Unix time 1417867200 (06 Dec 14)
+Day: 06 On time: 16:30 Off time: 8:39
+Schedule time ON: 16:30 | Calculated time ON: 15:23 [DIFF: -4006]
+Schedule time OFF: 8:39 | Calculated time OFF: 6:48 [DIFF: -6657]
+Unix time 1417953600 (07 Dec 14)
+Day: 07 On time: 16:30 Off time: 8:41
+Schedule time ON: 16:30 | Calculated time ON: 15:23 [DIFF: -4019]
+Schedule time OFF: 8:41 | Calculated time OFF: 6:49 [DIFF: -6713]
+Unix time 1418040000 (08 Dec 14)
+Day: 08 On time: 16:29 Off time: 8:42
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3968]
+Schedule time OFF: 8:42 | Calculated time OFF: 6:50 [DIFF: -6712]
+Unix time 1418126400 (09 Dec 14)
+Day: 09 On time: 16:29 Off time: 8:43
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3974]
+Schedule time OFF: 8:43 | Calculated time OFF: 6:51 [DIFF: -6712]
+Unix time 1418212800 (10 Dec 14)
+Day: 10 On time: 16:29 Off time: 8:44
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3978]
+Schedule time OFF: 8:44 | Calculated time OFF: 6:52 [DIFF: -6714]
+Unix time 1418299200 (11 Dec 14)
+Day: 11 On time: 16:29 Off time: 8:46
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3978]
+Schedule time OFF: 8:46 | Calculated time OFF: 6:53 [DIFF: -6778]
+Unix time 1418385600 (12 Dec 14)
+Day: 12 On time: 16:29 Off time: 8:47
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3976]
+Schedule time OFF: 8:47 | Calculated time OFF: 6:53 [DIFF: -6785]
+Unix time 1418472000 (13 Dec 14)
+Day: 13 On time: 16:29 Off time: 8:48
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3971]
+Schedule time OFF: 8:48 | Calculated time OFF: 6:54 [DIFF: -6793]
+Unix time 1418558400 (14 Dec 14)
+Day: 14 On time: 16:29 Off time: 8:49
+Schedule time ON: 16:29 | Calculated time ON: 15:22 [DIFF: -3963]
+Schedule time OFF: 8:49 | Calculated time OFF: 6:55 [DIFF: -6804]
+Unix time 1418644800 (15 Dec 14)
+Day: 15 On time: 16:29 Off time: 8:50
+Schedule time ON: 16:29 | Calculated time ON: 15:23 [DIFF: -3952]
+Schedule time OFF: 8:50 | Calculated time OFF: 6:56 [DIFF: -6818]
+Unix time 1418731200 (16 Dec 14)
+Day: 16 On time: 16:29 Off time: 8:51
+Schedule time ON: 16:29 | Calculated time ON: 15:23 [DIFF: -3938]
+Schedule time OFF: 8:51 | Calculated time OFF: 6:57 [DIFF: -6833]
+Unix time 1418817600 (17 Dec 14)
+Day: 17 On time: 16:29 Off time: 8:52
+Schedule time ON: 16:29 | Calculated time ON: 15:23 [DIFF: -3921]
+Schedule time OFF: 8:52 | Calculated time OFF: 6:57 [DIFF: -6852]
+Unix time 1418904000 (18 Dec 14)
+Day: 18 On time: 16:29 Off time: 8:53
+Schedule time ON: 16:29 | Calculated time ON: 15:23 [DIFF: -3901]
+Schedule time OFF: 8:53 | Calculated time OFF: 6:58 [DIFF: -6872]
+Unix time 1418990400 (19 Dec 14)
+Day: 19 On time: 16:29 Off time: 8:54
+Schedule time ON: 16:29 | Calculated time ON: 15:24 [DIFF: -3879]
+Schedule time OFF: 8:54 | Calculated time OFF: 6:59 [DIFF: -6896]
+Unix time 1419076800 (20 Dec 14)
+Day: 20 On time: 16:29 Off time: 8:55
+Schedule time ON: 16:29 | Calculated time ON: 15:24 [DIFF: -3853]
+Schedule time OFF: 8:55 | Calculated time OFF: 6:59 [DIFF: -6922]
+Unix time 1419163200 (21 Dec 14)
+Day: 21 On time: 16:30 Off time: 8:55
+Schedule time ON: 16:30 | Calculated time ON: 15:25 [DIFF: -3885]
+Schedule time OFF: 8:55 | Calculated time OFF: 7:00 [DIFF: -6890]
+Unix time 1419249600 (22 Dec 14)
+Day: 22 On time: 16:30 Off time: 8:56
+Schedule time ON: 16:30 | Calculated time ON: 15:25 [DIFF: -3854]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:00 [DIFF: -6921]
+Unix time 1419336000 (23 Dec 14)
+Day: 23 On time: 16:31 Off time: 8:56
+Schedule time ON: 16:31 | Calculated time ON: 15:26 [DIFF: -3881]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:01 [DIFF: -6895]
+Unix time 1419422400 (24 Dec 14)
+Day: 24 On time: 16:31 Off time: 8:56
+Schedule time ON: 16:31 | Calculated time ON: 15:26 [DIFF: -3844]
+Schedule time OFF: 8:56 | Calculated time OFF: 7:01 [DIFF: -6872]
+Unix time 1419508800 (25 Dec 14)
+Day: 25 On time: 16:32 Off time: 8:57
+Schedule time ON: 16:32 | Calculated time ON: 15:27 [DIFF: -3865]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:01 [DIFF: -6911]
+Unix time 1419595200 (26 Dec 14)
+Day: 26 On time: 16:33 Off time: 8:57
+Schedule time ON: 16:33 | Calculated time ON: 15:28 [DIFF: -3884]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6894]
+Unix time 1419681600 (27 Dec 14)
+Day: 27 On time: 16:34 Off time: 8:57
+Schedule time ON: 16:34 | Calculated time ON: 15:29 [DIFF: -3900]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6879]
+Unix time 1419768000 (28 Dec 14)
+Day: 28 On time: 16:35 Off time: 8:57
+Schedule time ON: 16:35 | Calculated time ON: 15:29 [DIFF: -3913]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6867]
+Unix time 1419854400 (29 Dec 14)
+Day: 29 On time: 16:36 Off time: 8:57
+Schedule time ON: 16:36 | Calculated time ON: 15:30 [DIFF: -3924]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6857]
+Unix time 1419940800 (30 Dec 14)
+Day: 30 On time: 16:37 Off time: 8:57
+Schedule time ON: 16:37 | Calculated time ON: 15:31 [DIFF: -3932]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6851]
+Unix time 1420027200 (31 Dec 14)
+Day: 31 On time: 16:38 Off time: 8:57
+Schedule time ON: 16:38 | Calculated time ON: 15:32 [DIFF: -3939]
+Schedule time OFF: 8:57 | Calculated time OFF: 7:02 [DIFF: -6847]
+Done
